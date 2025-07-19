@@ -11,7 +11,7 @@ main:
   weight: 20
 - name: Proyectos
   url: /proyectos/
-  wight: 30
+  weight: 30
 - name: Sobre mí
   url: /about/
   weight: 40
