@@ -13,6 +13,12 @@
 
 
 
+  <meta name="author" content="El blog de Diego" />
+
+
+
+
+  <meta name="description" content="Un blog personal donde escribo, mi pequeño rincón en Internet" />
 
 
 
@@ -22,9 +28,7 @@
 
 
 
-
-
-<link type="text/css" rel="stylesheet" href="/css/main.bundle.min.0b379e4a22bd1cce7a7f236dbbe18b068a3c0e2d7c4519e834f2c4ca3117f0b0.css" integrity="sha256-CzeeSiK9HM56fyNtu&#43;GLBoo8Di18RRnoNPLEyjEX8LA=" />
+<link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6915ce3f369f07c3d21352553b7462ea855e53801e1bbbe161ca2825f361ffc3.css" integrity="sha256-aRXOPzafB8PSE1JVO3Ri6oVeU4AeG7vhYcooJfNh/8M=" />
 
 
 
@@ -52,6 +56,11 @@
 
 
 
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/icon_hu_43ce6b80ca9b8187.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/icon_hu_b7af2359199dfb4.png" />
+
 
 
 <meta property="og:url" content="http://localhost:1313/blog/post1/">
@@ -63,9 +72,11 @@
     <meta property="article:section" content="blog">
     <meta property="article:published_time" content="2023-11-24T00:00:00+00:00">
     <meta property="article:modified_time" content="2023-11-24T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/thumbnail.png">
 
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/thumbnail.png">
   <meta name="twitter:title" content="Blog Post with Inline Images">
   <meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.">
 
@@ -90,12 +101,27 @@
 <section class="mx-auto flex max-w-(--breakpoint-xl) items-center justify-between p-4">
   <a href="http://localhost:1313/" class="flex items-center space-x-3">
     
+      
+      <img src="/logo_hu_e5f6802f5a05edc3.webp" class="h-8 w-8" alt="Logo" />
+    
     <span class="self-center whitespace-nowrap text-2xl font-semibold text-slate-700 dark:text-slate-400">
       El blog de Diego
     </span>
   </a>
   <div class="flex flex-row space-x-8">
     <nav class="hidden space-x-8 text-xl md:block" aria-label="main">
+      
+        <a href="/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Inicio
+        </a>
+      
+        <a href="/blog/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Blog
+        </a>
+      
+        <a href="/about/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Sobre mí
+        </a>
       
     </nav>
     <button id="theme-toggle" type="button" class="rounded-lg text-sm text-slate-700 hover:text-indigo-500 dark:text-slate-400" aria-label="theme-switcher">
@@ -117,6 +143,18 @@
 </section>
 <section id="mobile-menu" class="absolute hidden w-full origin-top animate-open-menu flex-col justify-center bg-neutral-100 text-4xl dark:bg-neutral-800">
   <nav class="flex min-h-screen flex-col items-center py-8" aria-label="mobile">
+    
+      <a href="/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Inicio
+      </a>
+    
+      <a href="/blog/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Blog
+      </a>
+    
+      <a href="/about/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Sobre mí
+      </a>
     
   </nav>
 </section>
@@ -143,6 +181,16 @@
         Nov 24, 2023 - 3 minute read
       </div>
 
+      
+        
+        <div class="flex flex-col">
+          <img class="mt-4 h-full w-full object-cover" src="/blog1/photo1_hu_7ff1f813827be1a9.webp" alt="feature image" height="491" width="736" />
+          
+            <span class="mb-4 mt-1 text-center text-sm text-slate-700 dark:text-slate-200">
+              Image caption
+            </span>
+          
+        </div>
       
 
       
@@ -174,8 +222,15 @@
       <span class="prose prose-slate break-words text-lg text-slate-700 dark:prose-invert prose-pre:max-w-[90vw] dark:text-slate-200 md:prose-pre:max-w-(--breakpoint-md) prose-code:before:hidden prose-code:after:hidden">
         <h2 id="markdown-h2-title">Markdown h2 title</h2>
 <p>Use the shortcode <code>figArray</code> to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>{{&lt; <span style="color:#a6e22e">figArray</span> <span style="color:#a6e22e">subfolder</span>=<span style="color:#e6db74">&#34;&lt;subfoldername&gt;&#34;</span> <span style="color:#a6e22e">figCaption</span>=<span style="color:#e6db74">&#34;Some caption&#34;</span> <span style="color:#a6e22e">numCols</span>=<span style="color:#ae81ff">2</span> &gt;}}
-</span></span></code></pre></div><h3 id="markdown-h3-title">markdown h3 title</h3>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>{{&lt; <span style="color:#a6e22e">figArray</span> <span style="color:#a6e22e">subfolder</span>=<span style="color:#e6db74">&#34;&lt;subfoldername&gt;&#34;</span> <span style="color:#a6e22e">figCaption</span>=<span style="color:#e6db74">&#34;Some caption&#34;</span> <span style="color:#a6e22e">numCols</span>=<span style="color:#ae81ff">2</span> &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="markdown-h3-title">markdown h3 title</h3>
 <p>Both &ldquo;figCaption&rdquo; and &ldquo;numCols&rdquo; are optional. The shortcode will try to guess the best number of columns to use for the array of figures if &ldquo;numCols&rdquo; is not passed.
 You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.</p>
 
@@ -218,14 +273,13 @@ You will need one subfolder containing images per call to the shortcode. The ima
 </div>
 
 <h2 id="latex-rendering">Latex rendering</h2>
-<p>$$
+$$
 \begin{aligned}
-KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \
-JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
 \end{aligned}
-$$</p>
-<h2 id="markdown-subtitle">Markdown subtitle</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.</p>
+$$<h2 id="markdown-subtitle">Markdown subtitle</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere &#x26a1;.</p>
 <p><strong>Heading</strong></p>
 <ul>
 <li>List item 1</li>
@@ -239,11 +293,21 @@ $$</p>
 <p>Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.</p>
 <h2 id="code-blocks">Code blocks</h2>
 <p>Let&rsquo;s try to add some code blocks:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">key</span>: <span style="color:#ae81ff">value</span>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">key</span>: <span style="color:#ae81ff">value</span>
 </span></span><span style="display:flex;"><span><span style="color:#f92672">key1</span>:
 </span></span><span style="display:flex;"><span>  - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">bla</span>
 </span></span><span style="display:flex;"><span>    <span style="color:#f92672">type</span>: <span style="color:#ae81ff">blabla</span>
-</span></span></code></pre></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>
       </span>
     </article>
   </div>
@@ -257,7 +321,7 @@ $$</p>
     
       &copy;
       2025
-      
+      El blog de Diego
     
   </p>
 
