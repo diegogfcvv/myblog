@@ -9,6 +9,9 @@ main:
 - name: Blog
   url: /blog/
   weight: 20
+- name: Proyectos
+  url: /proyectos/
+  wight: 30
 - name: Sobre mí
   url: /about/
-  weight: 30
+  weight: 40
