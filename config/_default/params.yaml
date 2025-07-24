@@ -7,13 +7,14 @@ author:
   name: 'El blog de Diego'
   image: author.png
   greeting: 'Un blog personal donde escribo, mi pequeño rincón en Internet'
-  icon: ':wave:'
+  icon: 
 
 ############################
 ## Links
 ############################
 
 links:
+  - artstation: https://djego.artstation.com/
   # github:  
   # - gitlab:
   # facebook:

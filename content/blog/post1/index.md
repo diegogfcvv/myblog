@@ -1,68 +1,39 @@
----
-title: Blog Post with Inline Images
-subtitle: "Blog post subtitle :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
-cardimage: photo1_card.jpeg
-featureimage: photo1.jpeg
-caption: Image caption
+﻿---
+
+title: Publicar mis pensamientos en Internet
+subtitle: "Y por qué lo hago"
+summary: Cómo empecé a publicar ensayos, opiniones y otros textos, y por qué he decidido crearme un blog propio. Recomendada primera lectura del blog, para saber las razones detrás de este.
+date: 2025-07-19
+cardimage: photo1_card.png
+featureimage: photo1.png
+caption: 
 authors:
-  - Christian: author.png
+
+- Diego: author.png
 toc: true
 
-# enable Latex rendering
-params:
-  math: true
 ---
 
-## Markdown h2 title
-Use the shortcode `figArray` to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
+## Comenzando a publicar online
 
-```go
-{{</* figArray subfolder="<subfoldername>" figCaption="Some caption" numCols=2 */>}}
-```
-### markdown h3 title
+Hace muchos, pero muchos años —a ver, como veinte o así, pero más de la mitad de mi vida, al final— empecé a escribir una especie de diario en Google Docs. Lo interesante era que lo veía, de vez en cuando, e iba añadiendo una entrada con la fecha, intentando no mirar lo que había escrito previamente. Así, poco a poco, pensaba ir teniendo una especie de registro en el que iría viendo mi evolución.
 
-Both "figCaption" and "numCols" are optional. The shortcode will try to guess the best number of columns to use for the array of figures if "numCols" is not passed.
-You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.
+No sé si a alguien le sorprenderá lo que ocurrió a continuación, pero es bastante sencillo: simplemente lo fui dejando. Fue una mezcla de falta de compromiso y de leer —muy de vez en cuando— las tonterías que había puesto el Diego de hace unos años. Aún a día de hoy recuerdo una de las primeras entradas de ese diario y me entra un escalofrío de vergüenza ajena.
 
-{{< figArray subfolder="images" numCols=3 figCaption="A nice figure caption :wave:" >}}
+Poco más tarde intenté escribir un blog, pues era una época en la que triunfaban, para intentar ganar seguidores. Aquel momento fue algo extraño, porque estaba empezando a escribir literatura y aprovechaba para analizar diferentes obras, muchas de ellas no eran sino regurgitaciones de análisis de otras personas, por mucho que me fastidie admitirlo ahora. Obviamente, aquello tampoco salió bien del todo, creo que por la simple razón de que lo hacía para tener un público, y este no llegaba. Tiene sentido, por otro lado: el público lo hubiera leído de ser yo famoso previamente o tener una rutina y una capacidad analítica muy desarrolladas. Ninguno de los dos era el caso.
 
-## Latex rendering
+## ¿Y lo de ahora?
 
-$$
-\begin{aligned}
-KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
-JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
-\end{aligned}
-$$
+Entonces ¿qué tiene de diferente este blog que ahora estás leyendo? La madurez podría ser algo interesante: soy consciente de que el Diego actual tiene una capacidad de análisis superior —tanto por formación necesaria como por el hecho de que me han alimentado más obras y más variadas—, pero uno de los puntos débiles del plan anterior se ha esfumado. No quiero con este blog llegar a multitudes, aunque bienvenidas sean si les apetece pasarse, sino que intentará ser un resumen de mis pensamientos, experiencias y argumentos que a veces se agolpan en mi cabeza y no soy capaz de entender hasta que no intento expresarlos.
 
-## Markdown subtitle
+Este primer post es, pues, una declaración de intenciones: me gustaría que este fuera un espacio en internet, que no dependa de una empresa que me ceda una parcela de forma gratuita, pero haciendo al final publicidad de su dominio (mi último intento reciente vino por aquí), y donde pueda plasmar los proyectos que voy elaborando, aunque solo sea por una razón archivista.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+![Píxel art de un cerebro enviando información a Internet](/images/photo1.png "Píxel art de un cerebro descargando información a un monitor")
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+Sí, podría simplemente tener todo por ahí, escribir unos cuantos hilos en Bluesky sobre algo que me interesa, hacer un par de dibujos y que estén en Artstation, o que mis novelas se puedan comprar en Amazon o leer en otros lugares, pero la verdad es que tener un pequeño lugar en la web que reúna mis diferentes [proyectos](https://www.notion.so/proyectos) me parece más apetecible.
 
-### Markdown subsubtitle
+## Reclamando espacios
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+Por otro lado, me parece importante reclamar estos pequeños espacios en internet: un pequeño blog, una web propia, por mucho que parezcan algo minúsculo, son importantes para nuestra independencia: ¿quién nos dice que mañana no nos van a cerrar la cuenta de YouTube, de Instagram o de Facebook? Nuestros datos, y todo lo que subimos, son prácticamente suyos. No, sinceramente creo que necesitamos aislarnos un poco de todo eso, y que escribir por y para nosotros mismos es vital en la época que vivimos.
 
-#### Markdown h4 title
-
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
-
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
-
-## Code blocks
-
-Let's try to add some code blocks:
-
-```yaml
-key: value
-key1:
-  - name: bla
-    type: blabla
-```
+Esta es la razón de este blog, donde pongo una pequeña parte de mí. Espero que lo disfrutes y, si te apeteciera, intentes algo parecido, reclamando para ti una pequeña parte de este Internet que es de todos.

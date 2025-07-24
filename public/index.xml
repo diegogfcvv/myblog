@@ -6,49 +6,35 @@
     <description>Recent content on El blog de Diego</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post with Inline Images</title>
-      <link>http://localhost:1313/blog/post1/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    <item>
-      <title>Blog Post With Extra Extra Long Title That Keeps On Going</title>
+      <title>Volver a hacernos sentir Final Fantasy VII (Remake)</title>
       <link>http://localhost:1313/blog/post2/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <description>Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/blog/post3/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/blog/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
+      <title>Publicar mis pensamientos en Internet</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>Cómo empecé a publicar ensayos, opiniones y otros textos, y por qué he decidido crearme un blog propio. Recomendada primera lectura del blog, para saber las razones detrás de este.</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. &lt;a href=&#34;https://lipsum.com&#34;&gt;Integer varius&lt;/a&gt; ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.&lt;/p&gt;&#xA;&lt;p&gt;Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Desde pequeño me interesó la lectura: cada noche, mi madre me leía una pequeña historia, de estas de &amp;ldquo;365 cuentos y leyendas&amp;rdquo;, y desde entonces no pude parar. Apenas comenzando la adolescencia pensé «Oye, ¿y si escribo algo propio? No tiene que ser tan difícil», y procedí a copiar totalmente y sin percatarme mis obras favoritas. Tardé un tiempo en escribir obras propias, pero encontré ahí una mina de disfrute que no esperaba.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/proyectos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/proyectos/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. &lt;a href=&#34;https://lipsum.com&#34;&gt;Integer varius&lt;/a&gt; ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.&lt;/p&gt;&#xA;&lt;p&gt;Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;proyectos&#34;&gt;Proyectos&lt;/h1&gt;&#xA;&lt;p&gt;A continuación están los diferentes proyectos en los que he ido trabajando, de un modo u otro, y los enlaces que llevan a ellos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;jojos-rational-adventure-fanfiction&#34;&gt;Jojo&amp;rsquo;s Rational Adventure (fanfiction)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/404&#34;&gt;&lt;img src=&#34;http://localhost:1313/proyectos/jjra.png&#34; alt=&#34;Logo de la serie&#34;&gt;&lt;/a&gt;&#xA;Fanfic sobre el manga y anime &lt;em&gt;Jojo&amp;rsquo;s Bizarre Adventure&lt;/em&gt;, que se irá publicando periódicamente.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;pequeños-relatos-y-otros-escritos&#34;&gt;&lt;em&gt;Pequeños relatos&lt;/em&gt; y otros escritos&lt;/h3&gt;&#xA;&lt;p&gt;En &lt;a href=&#34;https://ebuki.es/book/143&#34;&gt;ebuki&lt;/a&gt; se puede leer esta antología de relatos.&#xA;&lt;a href=&#34;https://ebuki.es/book/143&#34;&gt;&lt;img src=&#34;http://localhost:1313/proyectos/ebuki.png&#34; alt=&#34;Portada de la antología&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;fanfics-one-shot&#34;&gt;Fanfics One-Shot&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1BVzdeDcHoCk1CCjMAhba3MCmN35JgVBK/view?usp=sharing&#34;&gt;La fría piedra&lt;/a&gt; es un fanfic muy corto sobre Geralt, que llega a Kaer Morhen junto con Ciri y Jaskier. Pronto se dan cuenta de que el castillo es un lugar demasiado frío, dejando a Ciri a un lado y cuidándose entre ellos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
