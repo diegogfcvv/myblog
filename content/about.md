@@ -20,7 +20,7 @@ Otra que parece que no tiene nada que ver a primera vista está relacionada con 
 
 Y una última afición que se puede ver en este blog es mis inicios en el píxel art. Nunca se me ha dado bien dibujar, pero hace unos años me apeteció probar y... Me ha enamorado. La verdad es que no le dedico tanto tiempo como me gustaría, pero disfruto mucho haciéndolo, y no creo que pare en ningún momento.
 
-Exceptuando el principio, esto son aficiones, y no creo que el rol, el software o el píxel art me den nunca dinero, y eso es algo que me encanta: son aficiones, no trabajo. Esto está relacionado, al menos en su concepto, con [mi primer post](/blog/post1), que resume un poco mi filosofía en este aspecto.
+Exceptuando el principio, esto son aficiones, y no creo que el rol, el software o el píxel art me den nunca dinero, y eso es algo que me encanta: son aficiones, no trabajo. Esto está relacionado, al menos en su concepto, con [mi primer post](/blog/primerpost), que resume un poco mi filosofía en este aspecto.
 
 Espero que disfrutes lo que lees por aquí o, como mínimo, que te resulte interesante.
 ![Diego en píxel art](about.png)

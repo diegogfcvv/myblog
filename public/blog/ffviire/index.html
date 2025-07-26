@@ -1,0 +1,305 @@
+<!doctype html><html lang="es-es">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="Qubt theme for Hugo" />
+
+
+
+<title>El blog de Diego</title>
+<meta name="title" content="El blog de Diego" />
+
+
+
+  <meta name="author" content="El blog de Diego" />
+
+
+
+
+  <meta name="description" content="Un blog personal donde escribo, mi pequeño rincón en Internet" />
+
+
+
+
+
+
+
+
+  
+
+
+<link type="text/css" rel="stylesheet" href="/css/main.bundle.min.2ddd7de2d438515d18574a33c8ae6089b5ac2ff90717da0d3227a9911272601c.css" integrity="sha256-Ld194tQ4UV0YV0ozyK5gibWsL/kHF9oNMiepkRJyYBw=" />
+
+
+
+
+
+
+
+
+  
+
+
+<script defer src="/js/main.bundle.min.6019857c689deea9916b73dafae8fbe9b426211bfcf34dbaa79e75993c8c6edf.js" integrity="sha256-YBmFfGid7qmRa3Pa&#43;uj76bQmIRv88026p551mTyMbt8="></script>
+
+
+
+
+
+
+
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/icon_hu_53beeb024596c76.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/icon_hu_57e8cbc41c934303.png" />
+
+
+
+<meta property="og:url" content="http://localhost:1313/blog/ffviire/">
+  <meta property="og:site_name" content="El blog de Diego">
+  <meta property="og:title" content="Volver a hacernos sentir Final Fantasy VII (Remake)">
+  <meta property="og:description" content="Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.">
+  <meta property="og:locale" content="es_es">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2025-07-21T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-07-21T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/thumbnail.png">
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/thumbnail.png">
+  <meta name="twitter:title" content="Volver a hacernos sentir Final Fantasy VII (Remake)">
+  <meta name="twitter:description" content="Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.">
+
+
+<script>
+  
+  if (localStorage.getItem("color-theme") === "dark" || (!("color-theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+    document.documentElement.classList.add("dark");
+  } else {
+    document.documentElement.classList.remove("dark");
+  }
+</script>
+
+  </head>
+  <body class="flex h-screen flex-col justify-between bg-neutral-100 dark:bg-neutral-800">
+    <div>
+      <header class="sticky top-0 z-10 bg-neutral-100 dark:bg-neutral-800">
+        
+
+
+
+<section class="mx-auto flex max-w-(--breakpoint-xl) items-center justify-between p-4">
+  <a href="http://localhost:1313/" class="flex items-center space-x-3">
+    
+      
+      <img src="/logo_hu_51ca31de4984a5a3.webp" class="h-8 w-8" alt="Logo" />
+    
+    <span class="self-center whitespace-nowrap text-2xl font-semibold text-slate-700 dark:text-slate-400">
+      El blog de Diego
+    </span>
+  </a>
+  <div class="flex flex-row space-x-8">
+    <nav class="hidden space-x-8 text-xl md:block" aria-label="main">
+      
+        <a href="/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Inicio
+        </a>
+      
+        <a href="/blog/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Blog
+        </a>
+      
+        <a href="/proyectos/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Proyectos
+        </a>
+      
+        <a href="/about/" class="px-3 py-2 text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+          Sobre mí
+        </a>
+      
+    </nav>
+    <button id="theme-toggle" type="button" class="rounded-lg text-sm text-slate-700 hover:text-indigo-500 dark:text-slate-400" aria-label="theme-switcher">
+      <svg id="theme-toggle-dark-icon" class="hidden h-6 w-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+      </svg>
+      <svg id="theme-toggle-light-icon" class="hidden h-6 w-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
+          fill-rule="evenodd"
+          clip-rule="evenodd"></path>
+      </svg>
+    </button>
+    <button id="hamburger-button" class="relative h-8 w-8 cursor-pointer text-3xl md:hidden" aria-label="hamburger-button">
+      <div
+        class="absolute top-4 -mt-0.5 h-[3px] w-8 rounded-sm bg-slate-700 transition-all duration-500 before:absolute before:h-[3px] before:w-8 before:-translate-x-4 before:-translate-y-2.5 before:rounded-sm before:bg-slate-700 before:transition-all before:duration-500 before:content-[''] after:absolute after:h-[3px] after:w-8 after:-translate-x-4 after:translate-y-2.5 after:rounded-sm after:bg-slate-700 after:transition-all after:duration-500 after:content-[''] dark:bg-slate-400 dark:before:bg-slate-400 dark:after:bg-slate-400"></div>
+    </button>
+  </div>
+</section>
+<section id="mobile-menu" class="absolute hidden w-full origin-top animate-open-menu flex-col justify-center bg-neutral-100 text-4xl dark:bg-neutral-800">
+  <nav class="flex min-h-screen flex-col items-center py-8" aria-label="mobile">
+    
+      <a href="/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Inicio
+      </a>
+    
+      <a href="/blog/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Blog
+      </a>
+    
+      <a href="/proyectos/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Proyectos
+      </a>
+    
+      <a href="/about/" class="px-3 py-2 text-center text-slate-700 hover:text-indigo-500 dark:text-slate-400 md:p-0">
+        Sobre mí
+      </a>
+    
+  </nav>
+</section>
+
+      </header>
+      <main>
+        
+  
+  
+  
+  
+  
+
+
+  <div class="justify-left mx-auto mt-8 flex max-w-(--breakpoint-md) px-4">
+    <article>
+      <h1 class="text-4xl font-extrabold text-slate-700 dark:text-slate-200">
+        Volver a hacernos sentir Final Fantasy VII (Remake)
+      </h1>
+      <h2 class="mt-4 text-2xl text-slate-500 dark:text-slate-400">
+        Y de cómo Aerith vuelve, con todo lo que esto implica
+      </h2>
+      <div class="mb-4 mt-2 text-sm text-slate-500 dark:text-slate-400">
+        Jul 21, 2025 - 8 minute read
+      </div>
+
+      
+        
+        <div class="flex flex-col">
+          <img class="mt-4 h-full w-full object-cover" src="/blog2/ffvii1_hu_65af31f8d208328d.webp" alt="feature image" height="414" width="736" />
+          
+        </div>
+      
+
+      
+
+
+      <span class="prose prose-slate break-words text-lg text-slate-700 dark:prose-invert prose-pre:max-w-[90vw] dark:text-slate-200 md:prose-pre:max-w-(--breakpoint-md) prose-code:before:hidden prose-code:after:hidden">
+        <p><strong>Este post contiene spoilers tanto del original Final Fantasy VII de  PlayStation, como de los dos remakes posteriores (Remake y Rebirth).</strong></p>
+<div style="text-align:right;">Nota: este post se publicó, previamente, el 14 de mayo de 2025, pero se ha resubido con algunos cambios. A su manera, este post es el remake del anterior.</div>
+<br>
+<p>Cuando se anunció que <a href="https://www.youtube.com/watch?v=p1OvupaRYCM">Final Fantasy VII tendría un remake</a>  me alegré mucho. Luego anunciaron que tendría tres partes y me preocupé un poco. Y, por último, me ofendí muchísimo cuando vi que el título del  primer juego sería “FInal Fantasy VII Remake”, en parte por lo cutre, en parte porque hubiera sido maravilloso que se hubiera llamado  “Remako”. Los directivos no tienen humor.</p>
+<p>Sin embargo, la idea estaba clara: se iba a hacer Final Fantasy VII de nuevo. Podría entrar aquí en las diferencias entre remaster (habitualmente solo es un cambio gráfico, lo que se ha hecho hace poco con <a href="https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/">Oblivion</a>),  remake (volver a hacer el juego, a veces con cambios) y reboot (reinicio, normalmente de una saga); pero lo importante es lo que ocurre, sin tanta terminología: Final Fantasy VII Remake vuelve al inicio del juego, reinventando el sistema de combate, con gráficos  actuales y… ¿con la misma historia?</p>
+<p>Pues no, y eso es parte de lo que ha enfadado a la comunidad.</p>
+<p>Si algo me ha llamado a escribir este texto es el hecho de que no he visto <strong>prácticamente ningún artículo o comentario sobre el segundo juego</strong>, y eso, creo, se debe a que la gente no está muy contenta con el rumbo de la trilogía, que juega con el destino, lo que tenía que pasar (asumimos aquí que es lo que ocurre en el juego original) y cómo evitarlo.</p>
+<p>El primer juego, Remake, se centra en la ciudad de Midgar. Alguien puede pensar «uy, pero si eso es solo una parte del primer CD y hay tres», pero tiene fácil explicación: el tercer CD del  original apenas tiene historia y, además, el segundo juego, Rebirth, es  enorme. Pero vamos con Midgar:</p>
+<p><img src="/blog/ffviire/images/ffvii2.webp" alt="Vista aérea de la ciudad de Midgar en el juego"></p>
+<div style="text-align:center;">
+<p>La ciudad de Midgar, que podríamos definir como <a href="https://i.redd.it/4hw4ty1bdgc61.jpg">una &amp;^#$# pizza</a></p>
+</div>
+<br>
+En Remake vemos una historia muy parecida al original… Pero con ciertos cambios: hay “susurros” que evitan que cambie el destino, reviviendo a Barret al final del juego, por ejemplo, ya que este no debía morir, pero el grupo principal decide luchar contra el destino en el último capítulo, abriendo la puerta a aún más cambios respecto al juego original de cara al segundo juego.
+<p>A mucha gente esto le molestó (igual que el cambio de RPG por turnos a un action-RPG), como si lo que fuera que pasara en estos juegos cambiara retrospectivamente los CDs de nuestra infancia y los destruyera. Pero a la gente le está enfadando aún más lo que ocurre en Rebirth:</p>
+<p><img src="/blog/ffviire/images/ffvii3.webp" alt="Los “susurros” rodeando a Cloud y Aerith"></p>
+<div style="text-align:center;">
+Los “susurros”, asegurándose de que nada se mueve un milímetro del juego original, y fallando estrepitosamente. ¿Serán metáforas de los fans?
+</div>
+<br>
+<p><strong>Sé que ya he avisado de los spoilers, pero veo posible que alguien haya llegado aquí sin jugar Rebirth. En los siguientes párrafos hablaré, directamente, del final del juego, es tu última oportunidad para invertir entre 50 y 100 horas para pasártelo sin spoilers. Sí, este es larguito.</strong></p>
+<p>Vamos a suponer que lo anterior era un prólogo para presentar de lo que realmente quiero hablar: del final de Rebirth.</p>
+<p>Pero hablemos primero del final del CD primero original: si jugasteis al  Final Fantasy VII de la PlayStation en su momento es posible que no os quedaran claras algunas cosas, bien por fallos de traducción, bien porque el guion original del juego da tumbos a veces. Pero también puede ser que vierais (o incluso escribierais) en foros comentarios sobre si Aerith seguía viva o no. O hasta si podría ser revivida.</p>
+<p>Esto es una maravilla que se vivió no solo en su momento, sino durante muchos años posteriores: recuerdo en la época en la que ya existía la PS3 a gente asegurar que Aerith podía ser revivida después de su muerte…</p>
+<p><img src="/blog/ffviire/images/ffvii4.png" alt=""></p>
+<div style="text-align:center;">
+<em>Aerith vive</em> escrito en un graffiti de la película <em>Rompe Ralph</em>.
+</div>
+<br>
+<p>¿Y cuáles eran las causas de que la gente pensara que Aerith no estaba tan muerta como nos querían hacer creer? Voy a enumerar unas cuantas:</p>
+<ul>
+<li>Existe el límite de nivel 4 en el juego, a pesar de que no se puede conseguir antes de su muerte<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</li>
+</ul>
+<ul>
+<li>Se puede conseguir su arma definitiva aunque ella ya haya abandonado el grupo<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</li>
+</ul>
+<ul>
+<li>Su fantasma aparece en la iglesia después de su muerte<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.</li>
+</ul>
+<ul>
+<li>Es triste que un personaje querido se muera <strong>de verdad</strong> en un videojuego y que no haya posibilidad de salvarlo<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.</li>
+</ul>
+<p>Lo peor no son las teorías, sin embargo, sino lo que habría que hacer para revivirla: llevar todos los personajes a nivel 99 antes de encontrarnos con Sephiroth, ser protectores con Aerith y despreciar a Tifa (ella sería la que moriría), dar 100 pañuelos a un NPC para que nos dijera cómo salvarla, hacer una complicada serie de misiones que incluyen usar 4 pañuelos al lado de su cama para que Cloud llorara su pérdida… Por supuesto, nada de esto funciona, aunque podéis <a href="https://ff7rumors.tripod.com/aeris.htm">leer sobre estas teorías</a> si os apetece.</p>
+<p>Sí es cierto que hay líneas de diálogo para ella después de su muerte. Obviamente, no hay forma normal de acceder a ellas, solo con trucos, pero lo que nos puede indicar esto, como mucho, es que hubo un cambio de planes en la historia (muy probablemente, que su muerte iba a ser posterior, en la zona final del juego; también que al principio dudaban entre que la muerte fuera la suya o la de Barret), e incluso podría no indicar nada, dado que otros personajes tienen líneas de diálogo antes de ser obtenibles.</p>
+<p>¿Adónde quiero ir con todo esto? A que el final del Rebirth es mucho menos claro que el juego original con respecto a si Aerith vive o no, y la verdad es que trastocó mis expectativas.</p>
+<p>Cuando hablé de lo que sería el final de este juego con una amiga yo tenía dos teorías: 1) No se iban a atrever a matar a Aerith de nuevo, ya que sabían que la gente la quería mucho (en el primer juego es muy, muy carismática), y cambiarían por dónde va la historia. 2) No se iban a atrever a <strong>no</strong> matar a Aerith, ya que su muerte es esencial para la trama y la evolución de Cloud. Con estas dos teorías, que en el fondo me las creía, me cubría totalmente: así, pasara lo que pasase, tendría razón.</p>
+<p>Y me equivoqué.</p>
+<p><img src="/blog/ffviire/images/ffvii5.jpeg" alt=""></p>
+<div style="text-align:center;">
+Aerith (probablemente) muerta en brazos de Cloud.
+</div>
+<br>
+<p>Os hago un pequeño resumen de lo que pasa al final de Rebirth: Cloud está a punto de matar a Aerith. Consigue pararse y Sephiroth baja para hacerlo él mismo, pero el protagonista, haciendo un esfuerzo increíble, consigue parar el golpe, desviando la Masamune de su enemigo… Que, tras un parpadeo, aparece en su mano, manchada de sangre. Aquí suponemos que Aerith sí ha muerto (importante el hecho de que no lo hayamos visto realmente), pero entonces comienzan varias batallas. En una de ellas Cloud lucha junto a Zack (¿de otro mundo paralelo?), pero Sephiroth corta la conexión, diciendo que «igual que los mundos se unen, también pueden ser ser separados». Varias peleas más suceden y entonces tenemos la lucha uno contra uno que ya vimos al final del Remake (y que representa la última batalla del juego original), pero esta vez nos acompaña Aerith, que al terminar dice «¿Preparado? Los demás están esperando» justo antes de desaparecer.</p>
+<p>Después de estas batallas, Aerith sigue en el suelo, aparentemente muerta, mientras todos van a su lado. Pero, cuando llega Cloud, el resto desaparece: están ellos dos a solas. Le dice que se despierte, ¡y ella lo hace! Cambia la escena y todos (especialmente Tifa) actúan como si Aerith hubiera muerto, mientras que Cloud no solo no lo hace, sino que habla con ella. Podríamos pensar que es una imaginación suya, o que no supera su muerte, pero, aunque llevamos dos juegos siendo testigos de cómo Cloud ve cosas que no están ahí, normalmente a esto lo acompaña un efecto visual que ahora no está. Respecto a que no supere la muerte de Aerith y esta sea solo un recuerdo o su imaginación, hemos de recordar que hay un momento en el que Red XIII/Nanaki <strong>sí</strong>**** que la percibe cuando ella lo acaricia.</p>
+<p>Entonces, ¿está viva o no?</p>
+<p>Creo que esta es la clave de este juego: ha conseguido crear el ambiente para que la gente vuelva a pensar sobre si un personaje querido está realmente muerto o tiene una posibilidad de salvación, si el fantasma puede ser revivido, si los mundos paralelos (como aquel que habita Zack) pueden servir para que Aerith vuelva en un final feliz para todos…</p>
+<p>Para mí (aunque me decanto porque sí haya muerto, por peso narrativo y emocional) lo importante no es si estará viva o no, sino que se ha conseguido que haya personas que realmente están seguras (o que lo quieran con mucha fuerza, al final es muy parecido) de que Aerith vive, y que la veremos en el próximo juego.</p>
+<p>En cualquier caso, justo antes del fundido a negro de los créditos, con Aerith mirando al grupo continuar, el juego nos avisa, anticipando la reacción de la gente que lo ha jugado:</p>
+<p><img src="/blog/ffviire/images/ffvii6.webp" alt=""></p>
+<div style="text-align:center;">
+No hay promesas esperando al final del viaje.
+</div><div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Es totalmente posible conseguirlo antes, aunque esté <a href="https://www.youtube.com/watch?v=Zlvr-q1STps">un poco escondido</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>La verdad es que esta no me parece tan relevante. De hecho, si la tiene equipada antes de morir se pierde para siempre, me parece que aquí se tiende a la lógica de videojuego en vez de a la real.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Una de las teorías sobre esto es que se podría resucitar. Se viene abajo cuando nos damos cuenta de que realmente este “fantasma” aparece cuando ShinRa la secuestra, estando ella viva aún.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Esta es la que más sentido tiene, claro..&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+      </span>
+    </article>
+  </div>
+
+      </main>
+    </div>
+    <footer>
+      <div class="flex flex-col justify-center p-10">
+  
+  <p class="text-center text-slate-700 dark:text-slate-400">
+    
+      &copy;
+      2025
+      El blog de Diego
+    
+  </p>
+
+  
+  
+  
+  
+  <p class="text-center text-sm text-slate-700 dark:text-slate-400">
+    Published with <a class="hover:underline hover:decoration-indigo-500 hover:text-indigo-500" href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a> & <a class="hover:underline hover:decoration-indigo-500 hover:text-indigo-500" href="https://github.com/chrede88/qubt" target="_blank" rel="noopener noreferrer">Qubt</a>
+  </p>
+</div>
+
+    </footer>
+  </body>
+</html>
