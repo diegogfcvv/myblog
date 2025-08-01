@@ -16,8 +16,11 @@ A continuación están los diferentes proyectos en los que he ido trabajando, de
 ---
 
 ### Jojo's Rational Adventure (fanfiction)
-[![Logo de la serie](/proyectos/jjra.png)](/404)
-Fanfic sobre el manga y anime <em>Jojo's Bizarre Adventure</em>, que se irá publicando periódicamente.
+[![Logo de la serie](/proyectos/jjra.png)](https://archiveofourown.org/works/68507211/chapters/177342896)
+
+*Jojo, después de la muerte temprana de su madre en un accidente, cree llevar una vida relativamente tranquila hasta que aparece Dio. Este dará un giro completo a su historia, comenzando una trama que durará décadas.*
+
+[Capítulo 1](https://archiveofourown.org/works/68507211/chapters/177342896), también en [inglés](https://archiveofourown.org/works/68507331/chapters/177343266).
 
 ---
 
