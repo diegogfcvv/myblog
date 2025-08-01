@@ -1,0 +1,17 @@
+############################
+## Navbar
+############################
+
+main:
+- name: Inicio
+  url: /
+  weight: 10
+- name: Blog
+  url: /blog/
+  weight: 20
+- name: Proyectos
+  url: /proyectos/
+  weight: 30
+- name: Sobre mí
+  url: /about/
+  weight: 40

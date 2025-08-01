@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El blog de Diego</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on El blog de Diego</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Volver a hacernos sentir Final Fantasy VII (Remake)</title>
+      <link>http://localhost:1313/blog/ffviire/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ffviire/</guid>
+      <description>Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.</description>
+    </item>
+    <item>
+      <title>Publicar mis pensamientos en Internet</title>
+      <link>http://localhost:1313/blog/primerpost/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/primerpost/</guid>
+      <description>Cómo empecé a publicar ensayos, opiniones y otros textos, y por qué he decidido crearme un blog propio. Recomendada primera lectura del blog, para saber las razones detrás de este.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Desde pequeño me interesó la lectura: cada noche, mi madre me leía una pequeña historia, de estas de &amp;ldquo;365 cuentos y leyendas&amp;rdquo;, y desde entonces no pude parar. Apenas comenzando la adolescencia pensé «Oye, ¿y si escribo algo propio? No tiene que ser tan difícil», y procedí a copiar totalmente y sin percatarme mis obras favoritas. Tardé un tiempo en escribir obras propias, pero encontré ahí una mina de disfrute que no esperaba.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/proyectos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proyectos/</guid>
+      <description>&lt;h1 id=&#34;proyectos&#34;&gt;Proyectos&lt;/h1&gt;&#xA;&lt;p&gt;A continuación están los diferentes proyectos en los que he ido trabajando, de un modo u otro, y los enlaces que llevan a ellos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;jojos-rational-adventure-fanfiction&#34;&gt;Jojo&amp;rsquo;s Rational Adventure (fanfiction)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/404&#34;&gt;&lt;img src=&#34;http://localhost:1313/proyectos/jjra.png&#34; alt=&#34;Logo de la serie&#34;&gt;&lt;/a&gt;&#xA;Fanfic sobre el manga y anime &lt;em&gt;Jojo&amp;rsquo;s Bizarre Adventure&lt;/em&gt;, que se irá publicando periódicamente.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;pequeños-relatos-y-otros-escritos&#34;&gt;&lt;em&gt;Pequeños relatos&lt;/em&gt; y otros escritos&lt;/h3&gt;&#xA;&lt;p&gt;En &lt;a href=&#34;https://ebuki.es/book/143&#34;&gt;ebuki&lt;/a&gt; se puede leer esta antología de relatos.&#xA;&lt;a href=&#34;https://ebuki.es/book/143&#34;&gt;&lt;img src=&#34;http://localhost:1313/proyectos/ebuki.png&#34; alt=&#34;Portada de la antología&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;fanfics-one-shot&#34;&gt;Fanfics One-Shot&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1BVzdeDcHoCk1CCjMAhba3MCmN35JgVBK/view?usp=sharing&#34;&gt;La fría piedra&lt;/a&gt; es un fanfic muy corto sobre Geralt, que llega a Kaer Morhen junto con Ciri y Jaskier. Pronto se dan cuenta de que el castillo es un lugar demasiado frío, dejando a Ciri a un lado y cuidándose entre ellos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

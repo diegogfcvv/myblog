@@ -1,0 +1,4 @@
+baseURL = 'https://djegoblog.org/'
+languageCode = 'es-es'
+title = 'El blog de Diego'
+theme = "qubt"
