@@ -1,8 +1,3 @@
-blank_issues_enabled: true
-contact_links:
-  - name: ⚡ Feature Request
-    url: https://github.com/Chrede88/qubt/discussions
-    about: Please use GitHub Discussions for feature requests
-  - name: 🙋 Question
-    url: https://github.com/Chrede88/qubt/discussions
-    about: Please use GitHub Discussions for questions about the theme
+version https://git-lfs.github.com/spec/v1
+oid sha256:e349623ca8f466d2c1880cc02da2871f0f0e62ccb37f29505d097d29d94f6480
+size 337

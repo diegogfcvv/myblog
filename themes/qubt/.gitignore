@@ -1,13 +1,3 @@
-# Tailwind directories
-node_modules/
-
-# Hugo stuff
-.hugo_build.lock
-**/public/
-**/resources/_gen/
-
-# Apple stuff
-.DS_Store
-
-# lighthouse pwa badge
-lighthouse/lighthouse_pwa.svg
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f115ad544d52c9862f6d43279b0c0807dabcf3c7f065b0c4988cce7185b7355
+size 176

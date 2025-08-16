@@ -22,6 +22,8 @@ A continuación están los diferentes proyectos en los que he ido trabajando, de
 
 [Capítulo 1](https://archiveofourown.org/works/68507211/chapters/177342896), también en [inglés](https://archiveofourown.org/works/68507331/chapters/177343266).
 
+[Capítulo 2](https://archiveofourown.org/works/68507211/chapters/179694346), también en [inglés](https://archiveofourown.org/works/68507331/chapters/179697701).
+
 ---
 
 ### *Pequeños relatos* y otros escritos

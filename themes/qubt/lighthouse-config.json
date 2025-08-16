@@ -1,13 +1,3 @@
-{
-  "extends": "lighthouse:default",
-  "settings": {
-    "maxWaitForFcp": "15 * 1000",
-    "maxWaitForLoad": "35 * 1000",
-    "formFactor": "mobile",
-    "skipAudits": [
-      "pwa",
-      "uses-http2",
-      "bf-cache"
-    ]
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf02eb69fac6971e0e71b6682cddf2525d3db60303666946101ba28930261732
+size 231

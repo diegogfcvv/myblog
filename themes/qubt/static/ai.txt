@@ -1,3 +1,3 @@
-User-Agent: *
-Disallow: *
-Disallow: /
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff4ff0e7d436aff28b5b747c54eeec213724e5492ca7739cd4cc4db3afdf0cf1
+size 38
