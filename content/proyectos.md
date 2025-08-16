@@ -20,9 +20,9 @@ A continuación están los diferentes proyectos en los que he ido trabajando, de
 
 *Jojo, después de la muerte temprana de su madre en un accidente, cree llevar una vida relativamente tranquila hasta que aparece Dio. Este dará un giro completo a su historia, comenzando una trama que durará décadas.*
 
-[Capítulo 1](https://archiveofourown.org/works/68507211/chapters/177342896), también en [inglés](https://archiveofourown.org/works/68507331/chapters/177343266).
+[Capítulo 1: La invasión de Dio](https://archiveofourown.org/works/68507211/chapters/177342896), también en [inglés](https://archiveofourown.org/works/68507331/chapters/177343266).
 
-[Capítulo 2](https://archiveofourown.org/works/68507211/chapters/179694346), también en [inglés](https://archiveofourown.org/works/68507331/chapters/179697701).
+[Capítulo 2: La máscara de piedra](https://archiveofourown.org/works/68507211/chapters/179694346), también en [inglés](https://archiveofourown.org/works/68507331/chapters/179697701).
 
 ---
 
