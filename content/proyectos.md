@@ -24,6 +24,8 @@ A continuación están los diferentes proyectos en los que he ido trabajando, de
 
 [Capítulo 2: La máscara de piedra](https://archiveofourown.org/works/68507211/chapters/179694346), también en [inglés](https://archiveofourown.org/works/68507331/chapters/179697701).
 
+[Capítulo 3: Sed de sangre](https://archiveofourown.org/works/68507211/chapters/182255241), también en [inglés](https://archiveofourown.org/works/68507331/chapters/182255441).
+
 ---
 
 ### *Pequeños relatos* y otros escritos
