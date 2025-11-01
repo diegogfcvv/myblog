@@ -26,6 +26,12 @@ A continuación están los diferentes proyectos en los que he ido trabajando, de
 
 [Capítulo 3: Sed de sangre](https://archiveofourown.org/works/68507211/chapters/182255241), también en [inglés](https://archiveofourown.org/works/68507331/chapters/182255441).
 
+[Capítulo 4: Humanidad](https://archiveofourown.org/works/68507211/chapters/184456021), también en [inglés](https://archiveofourown.org/works/68507331/chapters/184455746).
+
+[Capítulo 5: Visitas inesperadas](https://archiveofourown.org/works/68507211/chapters/186540401), también en [inglés](https://archiveofourown.org/works/68507331/chapters/186540221).
+
+[Capítulo 6: Cambiando el mapa](https://archiveofourown.org/works/68507211/chapters/191655541), también en [inglés](https://archiveofourown.org/works/68507331/chapters/191655606).
+
 ---
 
 ### *Pequeños relatos* y otros escritos
