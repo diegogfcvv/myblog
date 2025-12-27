@@ -20,7 +20,7 @@
       <guid>{{ .Permalink }}</guid>
 
       <!-- CONTENIDO COMPLETO -->
-      <content:encoded>{{ "<![CDATA[" | safeHTML }}{{ .Content | html }}{{ "]]>" | safeHTML }}</content:encoded>
+      <content:encoded>{{ .Content | html }}</content:encoded>
 
       <!-- Descripción (resumen) -->
       <description>{{ "<![CDATA[" | safeHTML }}{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}{{ "]]>" | safeHTML }}</description>
