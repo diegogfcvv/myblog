@@ -1,7 +1,7 @@
 {{- $pages := where .Site.RegularPages "Section" "blog" -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}{{- $pages = $pages | first $limit -}}{{- end -}}
-{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML -}}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog - {{ .Site.Title }}</title>
@@ -10,7 +10,7 @@
     <generator>Hugo</generator>
     <language>{{ .Site.LanguageCode }}</language>
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-    <atom:link href="{{ .Site.BaseURL }}blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
 
     {{ range $pages }}
     <item>
@@ -19,15 +19,24 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <guid>{{ .Permalink }}</guid>
 
+      <!-- CONTENIDO COMPLETO -->
       <content:encoded>{{ "<![CDATA[" | safeHTML }}{{ .Content | html }}{{ "]]>" | safeHTML }}</content:encoded>
 
-      <description>{{ if .Description }}{{ .Description | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
+      <!-- Descripción (resumen) -->
+      <description>{{ "<![CDATA[" | safeHTML }}{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}{{ "]]>" | safeHTML }}</description>
 
-      {{ range .Params.tags }}
+      <!-- Imagen destacada si existe -->
+      {{ with .Params.image }}
+      <enclosure url="{{ . | absURL }}" type="image/{{ path.Ext . | replaceRE "^\\." "" | default "jpeg" }}" />
+      {{ end }}
+
+      <!-- Categorías -->
+      {{ range .Params.categories }}
       <category>{{ . }}</category>
       {{ end }}
 
-      {{ range .Params.categories }}
+      <!-- Tags -->
+      {{ range .Params.tags }}
       <category>{{ . }}</category>
       {{ end }}
 
