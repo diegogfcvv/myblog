@@ -2,14 +2,10 @@ baseURL = 'https://djegoblog.org/'
 languageCode = 'es-es'
 title = 'El blog de Diego'
 theme = "qubt"
+
 [outputs]
   home = ["HTML"]
   section = ["HTML", "RSS"]
 
 [rss]
   limit = 20
-  rssFullText = true
-
-[params]
-  rssFullContent = true
-  rssImage = true
