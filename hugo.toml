@@ -7,5 +7,4 @@ theme = "qubt"
   section = ["HTML", "RSS"]
 [rss]
   limit = 20
-[params]
-  rssFullText = true
+  fullContent = true
