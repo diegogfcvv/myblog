@@ -81,12 +81,10 @@ Ella se queja de no poder hacer nada durante las vacaciones, y Hee-do le respond
 
 —Fuiste a la playa con tus amigos, vi las fotos del álbum —le responde Min-chae, que, como nosotros, acaba de recibir esa información.
 
-Y, entonces, vemos que Hee-do no se acuerda en absoluto. Peor aún, ese momento que duraría para siempre, en el que obtendrían el verano para ellos y que sería clave en sus vidas no parece siquiera importante.
+Y... Este es mi episodio favorito, en parte por lo que ocurre a continuación: esta es una serie que lucha contra los tópicos de su género, pero también contra los suyos propios: depende de la nostalgia, de que la gente se acuerde de aquella época y pueda sentirse cercana. Pero, al final de este episodio, nos dice que eso no tiene tanto valor.
+
+Vemos que Hee-do no se acuerda en absoluto. Peor aún, ese momento que duraría para siempre, en el que obtendrían el verano para ellos y que sería clave en sus vidas no parece siquiera importante.
 
 —Nada dura para siempre —sentencia la Na Hee-do adulta—, todo es muy efímero y los momentos pasan. Y eso no es necesariamente algo malo.
 
 Fundido a negro, termina el episodio.
-
-Este es mi episodio favorito de la serie, con diferencia. Es una serie que lucha contra los tópicos de su género, pero también contra los suyos propios: depende de la nostalgia, de que la gente se acuerde de aquella época y pueda sentirse cercana. Pero, al final de este episodio, nos dice que eso no tiene tanto valor. Que nos olvidaremos de esos momentos, y que eso puede ser bueno.
-
-Un sabor agridulce que veremos en muchos otros episodios, sobre todo en aquellos en los que la protagonista se relaciona con las personas importantes para ella, muchas veces en ámbitos que preferiría evitar.
