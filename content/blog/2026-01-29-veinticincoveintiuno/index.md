@@ -4,8 +4,8 @@ title: Un verano inolvidable
 subtitle: "Análisis del episodio 10 de Veinticinco Veintiuno"
 summary: El verano es una época que se suele recordar con cariño, sobre todo ligada a experiencias en las que conectamos con otras personas. En este k-drama dedican casi un episodio completo a una de estas experiencias, y es mi favorito de toda la serie.
 date: 2026-01-29
-cardimage: 2521.1.jpg
-featureimage: 2521.1.jpg
+cardimage: 2521-1card.jpg
+featureimage: 2521-1.jpg
 caption:  
 authors:
 
@@ -16,7 +16,7 @@ toc: false
 
 Llevo unos años viendo k-dramas, o dramas coreanos, y una vez ves unos cuantos comienzas a ver un patrón: tema romántico en 16 episodios con un “falso” beso sobre el 8, uno de verdad en el 12 y una separación en el 14. Estéticamente preciosos, todo el mundo usando marcas carísimas (hasta la protagonista, paupérrima por lo demás), móviles de Samsung (de los que se cierran sobre sí mismos, si la serie tiene sobre 5 años o menos) y con triángulos amorosos continuos (una ella y dos ellos, invariablemente). Con un poco de suerte, el rechazado acabará con la amiga de la infancia de ella. Hablando de infancia: ¡la pareja se conocía de antes! De niños, de adolescentes, porque un día coincidieron en un bus, porque la hermana del primo de la pescadera lo mencionó a uno de ellos de pasada…
 
-![](/images/2521.2.jpg)
+![](/images/2521-2.jpg)
 
 Parece un poco tonto, pero la gente que no es habitual de esta serie no puede ni imaginarse hasta qué punto sale cada mes la misma serie. Y esto no es necesariamente algo negativo: a veces lo que necesitamos es la predictibilidad, lo de siempre, para ver algo mientras dejamos el cerebro medio apagado.
 
@@ -54,7 +54,7 @@ La [música](https://www.youtube.com/watch?v=ss5U0DO9_ZA) lleva un rato sonando,
 Solo unos segundos después hay un primer plano de Hee-do: «siento que este momento durará para siempre». Yi-jin tiene una sonrisa triste: «quizá así será», pero es cuatro años mayor, y parece estar pensando que es imposible. «Eso espero» dice ella, sonriéndole.
 
 La música sube de nuevo. Vemos un plano de los cinco y vuelve la cámara a alejarse, empequeñeciéndolos contra lo eterno del cielo y el mar. Hay un efecto de sonido de obturador y el vídeo se para, como si se hubiera sacado una foto de ese momento, eterno e inolvidable.
-![](/images/2521.1.jpg)
+![](/images/2521-1.jpg)
 
 La primera vez que vi este momento no me impactó tanto, pero lo interesante es que sabía —había visto ya muchas series coreanas— que el episodio se había terminado, y no quería ver el avance del siguiente.
 
