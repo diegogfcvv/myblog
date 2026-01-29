@@ -3,7 +3,6 @@
 ############################
 
 author:
-author:
   name: 'El blog de Diego'
   image: author.png
   greeting: 'Un blog personal donde escribo, mi pequeño rincón en Internet'
@@ -28,7 +27,7 @@ links:
   # - signal:
   # - codepen:
   # - dev:
-  - email: mailto:djegogutjerrez@gmail.com
+  - email: mailto:djegog@proton.me
   # website:
   # - link:
   # - discord:
@@ -67,7 +66,7 @@ links:
   # - codeberg:
   # - pixelfed:
   # - substack:
-  # - newsletter:
+- newsletter: https://djegoblog.org/blog/index.xml
 
 ###############################
 ## OpenGraph & Twitter Cards
