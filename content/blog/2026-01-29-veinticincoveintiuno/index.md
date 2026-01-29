@@ -8,7 +8,9 @@ cardimage: 2521.1.png
 featureimage: 2521.1.png
 caption:  
 authors:
-- Diego: author.png toc: false
+
+- Diego: author.png
+toc: false
 
 ---
 
