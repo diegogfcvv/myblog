@@ -4,8 +4,8 @@ title: Un verano inolvidable
 subtitle: "Análisis del episodio 10 de Veinticinco Veintiuno"
 summary: El verano es una época que se suele recordar con cariño, sobre todo ligada a experiencias en las que conectamos con otras personas. En este k-drama dedican casi un episodio completo a una de estas experiencias, y es mi favorito de toda la serie.
 date: 2026-01-29
-cardimage: 2521.1.png
-featureimage: 2521.1.png
+cardimage: 2521.1.jpg
+featureimage: 2521.1.jpg
 caption:  
 authors:
 
@@ -16,7 +16,7 @@ toc: false
 
 Llevo unos años viendo k-dramas, o dramas coreanos, y una vez ves unos cuantos comienzas a ver un patrón: tema romántico en 16 episodios con un “falso” beso sobre el 8, uno de verdad en el 12 y una separación en el 14. Estéticamente preciosos, todo el mundo usando marcas carísimas (hasta la protagonista, paupérrima por lo demás), móviles de Samsung (de los que se cierran sobre sí mismos, si la serie tiene sobre 5 años o menos) y con triángulos amorosos continuos (una ella y dos ellos, invariablemente). Con un poco de suerte, el rechazado acabará con la amiga de la infancia de ella. Hablando de infancia: ¡la pareja se conocía de antes! De niños, de adolescentes, porque un día coincidieron en un bus, porque la hermana del primo de la pescadera lo mencionó a uno de ellos de pasada…
 
-![](/images/2521.2.png)
+![](/images/2521.2.jpg)
 
 Parece un poco tonto, pero la gente que no es habitual de esta serie no puede ni imaginarse hasta qué punto sale cada mes la misma serie. Y esto no es necesariamente algo negativo: a veces lo que necesitamos es la predictibilidad, lo de siempre, para ver algo mientras dejamos el cerebro medio apagado.
 
@@ -24,7 +24,9 @@ Sería un poco dejado por mi parte no señalar también que son series habitualm
 
 Pero algo interesante que tiene el que esté pensada por y para mujeres es el hecho de que al principio había unos estándares de hombres muy concretos: duros por fuera, pero blanditos por dentro; celosos, sobreprotectores; y guapos y sexis, claro. Sin embargo, esto ha ido cambiando con los años, y ahora tenemos un protagonista respetuoso y comprensible en _Miss Night and Day_ (_Ella de día, otra de noche_ en España) o al marido perfecto en _Si la vida te da mandarinas_ (bueno, leal, amoroso y dispuesto a luchar y sacrificarse por su mujer), o simplemente un hombre empático en _Summer Strike_. O, ¡qué narices! Quien es el novio perfecto, Babi, en _Yummi's Cells_.Sin embargo, y aunque este tema dé para tesis (de verdad, creo que la relación entre el feminismo y el movimiento 4B en Corea del Sur y la representación de los k-dramas es clarísima), simplemente quería poner unos cuantos ejemplos de los tópicos habituales para hablar de la serie que se los carga todos, uno por uno:
 
-<div style="text-align:center;">_En garde!_</div>
+<div style="text-align:center;">
+_En garde!_
+</div>
 
 No sé si habréis oído hablar de _Veinticinco veintiuno_ o no, supongo que dependerá de lo cerca que estéis de los ambientes de k-dramas, pero si estáis algo cerca (o si ha surgido el tema cerca de mi pareja), como mínimo os sonará. Si no… Voy a tratar de hablar muy por encima del argumento, aunque no quiero estropear la experiencia a nadie que no lo haya visto aún:
 
@@ -32,7 +34,9 @@ Una chica, Hee-do, practica la esgrima en el momento de la crisis financiera asi
 
 Esto es apenas un esbozo, a propósito superficial, del primer episodio, donde evito hablar de nada importante, dado que creo que es una serie que merece mucho la pena ver lo más a ciegas posible, incluso aunque no la vea alguien fan de los k-dramas. Baste tener en mente que la serie se desarrolla a finales de los años 90 y avanza con el nuevo siglo, por lo que mucho de lo que ocurre se da con una época de fondo muy reconocible para su público objetivo (habitualmente el coreano). Un factor clave será, entonces, la nostalgia.
 
-<div style="text-align:center;">Prêts?_</div>
+<div style="text-align:center;">
+_Prêts?_
+</div>
 
 Es una serie en la que va todo con calma, especialmente al principio, y los conflictos son, mayoritariamente, de relaciones entre personas, por lo que no nos sorprenderá comprobar que el eppisodio número diez es un episodio de playa, un concepto muy típico en otro medio, el anime: todos van a pasar un día a la playa, con comida, diversión y tranquilidad, siendo normalmente un parón en la trama que deja que respire o que sirve para tratar la evolución y las relaciones de los personajes. Además, en la animación japonesa sirve para mostrar adolescentes semidesnudas y eso, pero no es importante para este episodio.
 
@@ -50,14 +54,16 @@ La [música](https://www.youtube.com/watch?v=ss5U0DO9_ZA) lleva un rato sonando,
 Solo unos segundos después hay un primer plano de Hee-do: «siento que este momento durará para siempre». Yi-jin tiene una sonrisa triste: «quizá así será», pero es cuatro años mayor, y parece estar pensando que es imposible. «Eso espero» dice ella, sonriéndole.
 
 La música sube de nuevo. Vemos un plano de los cinco y vuelve la cámara a alejarse, empequeñeciéndolos contra lo eterno del cielo y el mar. Hay un efecto de sonido de obturador y el vídeo se para, como si se hubiera sacado una foto de ese momento, eterno e inolvidable.
-![](/images/2521.1.png)
+![](/images/2521.1.jpg)
 
 La primera vez que vi este momento no me impactó tanto, pero lo interesante es que sabía —había visto ya muchas series coreanas— que el episodio se había terminado, y no quería ver el avance del siguiente.
 
 Sin embargo, cuando me levanté para poner el siguiente, vi que no era el final aún.
 
 
-<div style="text-align:center;">_Allez!_</div>
+<div style="text-align:center;">
+_Allez!_
+</div>
 
 Voy a hacer una pequeña pausa, porque creo que no he hablado lo suficiente de lo que tira esta serie de la nostalgia.
 
