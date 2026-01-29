@@ -42,6 +42,8 @@ Es una serie en la que va todo con calma, especialmente al principio, y los conf
 
 Bajo la excusa de grabar una parte de un vídeo documental —esto tiene que ver con Hee-do siendo esgrimista—, Yi-jin, el protagonista masculino, la lleva a la playa, junto con otros tres amigos. Este grupo de cinco llega allí y Yi-jin se da cuenta de que ser cuatro años mayor en ese momento implica muchísima distancia: los demás no saben cocinar cosas básicas y, aunque esto sirve para tener un rato de humor, también ayuda a distanciar un poco la relación principal, al menos de cara al público.
 
+![](/images/2521-3.jpg)
+
 Comen, juegan, compran fuegos artificiales —de esos que echan chispitas, no de los que asustan a personas neurodivergentes y animales— y se sacan fotos. Al final del capítulo hay una escena con los cinco mirando al mar, y hablando de «comprar el verano». Quieren que ese momento sea solo para ellos.
 
 —¡El verano es nuestro! —grita uno de los personajes.
@@ -72,6 +74,8 @@ Comenté que está ambientada en la época de la crisis del FMI, pero ¿sabíais
 La serie rezuma nostalgia allá por donde pasa, sí, hasta el punto de estar hecha desde el año 2021 —y aquí vemos una mirada al pasado algo diferente, la de la pandemia.
 
 Esta historia no la vemos sin más, si no que nos guía Kim Min-chae, la hija de Na Hee-do. Ella ve el pasado de su madre y nosotros a través de sus ojos. Entonces, pasamos al final real del episodio:
+
+![](/images/2521-4.jpg)
 
 Ella se queja de no poder hacer nada durante las vacaciones, y Hee-do le responde que están en medio de una pandemia. La hija responde que nunca ha ido de vacaciones durante el instituto, y entonces su madre le responde que ella tampoco.
 
