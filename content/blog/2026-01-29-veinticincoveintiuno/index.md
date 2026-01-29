@@ -25,7 +25,7 @@ Sería un poco dejado por mi parte no señalar también que son series habitualm
 Pero algo interesante que tiene el que esté pensada por y para mujeres es el hecho de que al principio había unos estándares de hombres muy concretos: duros por fuera, pero blanditos por dentro; celosos, sobreprotectores; y guapos y sexis, claro. Sin embargo, esto ha ido cambiando con los años, y ahora tenemos un protagonista respetuoso y comprensible en _Miss Night and Day_ (_Ella de día, otra de noche_ en España) o al marido perfecto en _Si la vida te da mandarinas_ (bueno, leal, amoroso y dispuesto a luchar y sacrificarse por su mujer), o simplemente un hombre empático en _Summer Strike_. O, ¡qué narices! Quien es el novio perfecto, Babi, en _Yummi's Cells_.Sin embargo, y aunque este tema dé para tesis (de verdad, creo que la relación entre el feminismo y el movimiento 4B en Corea del Sur y la representación de los k-dramas es clarísima), simplemente quería poner unos cuantos ejemplos de los tópicos habituales para hablar de la serie que se los carga todos, uno por uno:
 
 <div style="text-align:center;">
-_En garde!_
+<em>En garde!</em>
 </div>
 
 No sé si habréis oído hablar de _Veinticinco veintiuno_ o no, supongo que dependerá de lo cerca que estéis de los ambientes de k-dramas, pero si estáis algo cerca (o si ha surgido el tema cerca de mi pareja), como mínimo os sonará. Si no… Voy a tratar de hablar muy por encima del argumento, aunque no quiero estropear la experiencia a nadie que no lo haya visto aún:
@@ -35,7 +35,7 @@ Una chica, Hee-do, practica la esgrima en el momento de la crisis financiera asi
 Esto es apenas un esbozo, a propósito superficial, del primer episodio, donde evito hablar de nada importante, dado que creo que es una serie que merece mucho la pena ver lo más a ciegas posible, incluso aunque no la vea alguien fan de los k-dramas. Baste tener en mente que la serie se desarrolla a finales de los años 90 y avanza con el nuevo siglo, por lo que mucho de lo que ocurre se da con una época de fondo muy reconocible para su público objetivo (habitualmente el coreano). Un factor clave será, entonces, la nostalgia.
 
 <div style="text-align:center;">
-_Prêts?_
+<em>Prêts?</em>
 </div>
 
 Es una serie en la que va todo con calma, especialmente al principio, y los conflictos son, mayoritariamente, de relaciones entre personas, por lo que no nos sorprenderá comprobar que el eppisodio número diez es un episodio de playa, un concepto muy típico en otro medio, el anime: todos van a pasar un día a la playa, con comida, diversión y tranquilidad, siendo normalmente un parón en la trama que deja que respire o que sirve para tratar la evolución y las relaciones de los personajes. Además, en la animación japonesa sirve para mostrar adolescentes semidesnudas y eso, pero no es importante para este episodio.
@@ -62,7 +62,7 @@ Sin embargo, cuando me levanté para poner el siguiente, vi que no era el final 
 
 
 <div style="text-align:center;">
-_Allez!_
+<em>Allez!</em>
 </div>
 
 Voy a hacer una pequeña pausa, porque creo que no he hablado lo suficiente de lo que tira esta serie de la nostalgia.
