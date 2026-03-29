@@ -20,7 +20,7 @@ Y creo que nadie puede negar esto: en un instituto habitual —yo lo veo en el m
 
 ![](/images/futbol1.jpg)
 
-¿Cuál es el problema **real** de la situación actual? ¿Que los chavales tengan que jugar al fútbol para mantener cierta masculinidad? ¿Qué las chicas se vean desplazadas en el momento de descanso? Bueno, podrían ser unos problemas que dan para artículos, sí, pero creo que una de las implicaciones que tiene esto es que se perpetúa un modelo que luego se mantiene en el mundo adulto.
+¿Cuál es el problema **real** de la situación actual? ¿Que los chavales tengan que jugar al fútbol para mantener cierta masculinidad? ¿Que las chicas se vean desplazadas en el momento de descanso? Bueno, podrían ser unos problemas que dan para artículos, sí, pero creo que una de las implicaciones que tiene esto es que se perpetúa un modelo que luego se mantiene en el mundo adulto.
 
 Cuando vemos por la televisión imágenes de una manifestación —tristemente, cada vez menos comunes— no es raro que las cámaras vayan a grabar contenedores, papeleras o incluso farolas que se han podido ver afectados, especialmente si ha habido cargas por parte de los antidisturbios o si estos —bien desde dentro, bien desde fuera— han causado alboroto durante las protestas. Esta intignación se deja ver durante las noticias, que se habla de que, bueno, está bien protestar, pero no *así*. Y, uy, toca hablar de los deportes. Y, por lo que sea, no se comenta que los fans después de un partido han ido por la calle rompiendo bancos, papeleras, escaparates... O de que ha habido peleas en la salida del estadio.
 
