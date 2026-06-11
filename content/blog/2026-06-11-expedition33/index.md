@@ -73,7 +73,7 @@ Si alguien pensaba a estas alturas que el final del juego nos aclararía algo, s
 
 Elegimos entonces el final de Maelle, aunque solo sea por ver qué ocurre... Y por no volver a ver **esa** mirada de Lune.
 
-IMAGEN LUNE ![](/images/lune.jpg)
+![](/images/lune.jpg)
 
 Maelle se queda de forma indefinida en el mundo en el que llevamos todo el juego, y vemos aparecer a varios personajes. Algunos vivos (Sciel, Lune), otros muertos (Pierre, Gustave) y luego uno que no sabemos si es él mismo o no: Verso. Supongamos que Sciel y Lune son las mismas de antes —aunque ya se las trajo a la vida en otra ocasión—, ¿es el resto la misma persona que al inicio del juego? ¿Es Pierre ese marido que Sciel elegiría no tener? ¿Sabe Gustave quién es Maelle, y esto ha cambiado su relación? ¿Está el Verso que da su concierto de piano allí en contra de su propia voluntad? Nos vamos más lejos aún: ¿Maelle ha perdido toda su identidad pasada como Alicia?
 
