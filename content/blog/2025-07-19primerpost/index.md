@@ -30,7 +30,7 @@ Este primer post es, pues, una declaración de intenciones: me gustaría que est
 
 ![Píxel art de un cerebro enviando información a Internet](/images/photo1.png "Píxel art de un cerebro descargando información a un monitor")
 
-Sí, podría simplemente tener todo por ahí, escribir unos cuantos hilos en Bluesky sobre algo que me interesa, hacer un par de dibujos y que estén en Artstation, o que mis novelas se puedan comprar en Amazon o leer en otros lugares, pero la verdad es que tener un pequeño lugar en la web que reúna mis diferentes [proyectos](https://www.notion.so/proyectos) me parece más apetecible.
+Sí, podría simplemente tener todo por ahí, escribir unos cuantos hilos en Bluesky sobre algo que me interesa, hacer un par de dibujos y que estén en Artstation, o que mis novelas se puedan comprar en Amazon o leer en otros lugares, pero la verdad es que tener un pequeño lugar en la web que reúna mis diferentes [proyectos](/proyectos/) me parece más apetecible.
 
 ## Reclamando espacios
 
