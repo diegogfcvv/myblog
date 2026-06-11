@@ -50,5 +50,5 @@ En [ebuki](https://ebuki.es/book/143) se puede leer esta antología de relatos.
 ---
 
 ### El libro de Yoshua (novela)
-Novela con la que gané el V Certamen Literario Corcel Negro, ahora autoeditada y en formato digital. Se puede descargar [[aquí]](/content/El libro de Yoshua - Diego Gutierrez.epub).
-[![Portada de la novela](/proyectos/yoshua.jpg)](/content/El libro de Yoshua - Diego Gutierrez.epub)
+Novela con la que gané el V Certamen Literario Corcel Negro, ahora autoeditada y en formato digital. Se puede descargar [[aquí]]("/content/El libro de Yoshua - Diego Gutierrez.epub").
+[![Portada de la novela](/proyectos/yoshua.jpg)]("/content/El libro de Yoshua - Diego Gutierrez.epub")
