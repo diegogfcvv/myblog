@@ -1,26 +1,365 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on El blog de Diego</title>
+    <title>Blog - El blog de Diego</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on El blog de Diego</description>
+    <description>Últimos posts del blog</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 11:41:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/" rel="self" type="application/rss+xml" />
+
+    
+    <item>
+      <title>La cobaría en el infinito</title>
+      <link>http://localhost:1313/blog/2026-08-01-cobardia-infinito/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2026-08-01-cobardia-infinito/</guid>
+
+      
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Este post contiene &lt;em&gt;spoilers&lt;/em&gt; del k-drama &lt;em&gt;Hasta que el cielo nos reúna&lt;/em&gt;, de la serie &lt;em&gt;The Good Place&lt;/em&gt;, de un &lt;em&gt;fanfic&lt;/em&gt; racionalista, de un chiste suelto de &lt;em&gt;Nadie sabe nada&lt;/em&gt; y de una experiencia propia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;―¿Has oído hablar de las valquirias? ―me dice un amigo.&lt;br&gt;
+Estamos en un pueblo. No recuerdo ya dónde ni cuándo, apenas para qué estamos allí, pero sí mantengo viva en mi mente la conversación.&lt;br&gt;
+―Son las que llevan al Valhalla a los guerreros ―asiento. &lt;br&gt;
+―¿Y no crees que no es tan buena recompensa?&lt;br&gt;
+Me paro a pensar. Siempre he creído que la vida en sí misma es una recompensa más que meritoria, pero me lo planteo seriamente. &lt;br&gt;
+―Parece agradable: los guerreros que mueren van allí y tienen fiestas, comida y bebida por toda la eternidad ―digo, tras ponerme en la piel de esos guerreros.&lt;br&gt;
+―Sí, pero&amp;hellip; ―mi amigo reflexiona―. ¿No se te haría aburrido? Obviamente el primer día es agradable, y el segundo, y hasta las primeras semanas, pero ¿qué acabarías haciendo en un lugar así? Sin conflictos, haciendo toda la eternidad los mismo&amp;hellip; ¿De verdad no crees que sería aburrido?&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-08-01-cobardia-infinito/images/cobinfinito0.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Y sí. Así planteado, claro que me parecería aburrido, horrible llegado el momento, más grave en sí que la no-existencia. Pero, y aquí está mi mayor problema, creo que la ficción ha hecho casi siempre un flaco favor a la representación de la eternidad, incluso cuando esta es apetecible.&lt;/p&gt;
+&lt;p&gt;Parte del problema sea, seguramente, que la mente humana no está preparada para entender el infinito de una forma adecuada. Decía Berto Romero, cómico, que su padre le pidió un paquete de tabaco en su ataúd, y que él reflexionaba: «Vale, se muere y se fuma uno, pero ¿cómo se administra los siguientes? ¿Cuánto espera para fumarse el segundo?». Recuerdo escuchar esto en un podcast, en Salamanca ―sé la calle exacta, adónde iba y para qué, me marcó enormemente―, y que me hiciera gracia a la vez que me causaba una enorme desazón; un recurso limitado para usar en un tiempo ilimitado es, en sí, una tragedia. Volví a recordar esto mismo viendo una serie: &lt;em&gt;Hasta que el cielo nos reúna&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-08-01-cobardia-infinito/images/cobinfinito1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Esta serie trata de una señora que muere y va al cielo contra todo pronóstico ―soy consciente, luego hablo de &lt;em&gt;The Good Place&lt;/em&gt;― y allí se plantea una existencia &lt;em&gt;post mortem&lt;/em&gt; eterna, al menos al principio. La forma de imaginar esta existencia es, entre otras cosas, tremendamente capitalista ―gracias, Corea del Sur, así a nadie le sorprenderá―, hasta el punto de que hay comidas y lujos que hay que pagar. ¿La forma de hacerlo? Dependiendo de las buenas obras en vida, se pueden canjear puntos para recibirlos a cambio.&lt;/p&gt;
+&lt;p&gt;Creo que el problema es fácil de ver, pues es el mismo que antes: si he hecho 1000 buenas obras y canjeo una al año, después de 1000 años no tendré nada que canjear. Podría ser la persona más buena del mundo, pero nunca podría ser una persona &lt;em&gt;infinitamente&lt;/em&gt; buena en un tiempo finito. Hacia el final de la serie se deja caer que la base no es una vida finita y una muerte infinita en el cielo o el infierno, sino que esas experiencias sirven, a través del renacer, para &amp;ldquo;completar&amp;rdquo; a la persona&amp;hellip; Si os lo preguntáis, no tiene mucho sentido en la trama que se plantea; lo cierto es que la serie parece más interesada en mostrar las interacciones entre una señora mayor y su marido ―que tiene &lt;strong&gt;aspecto&lt;/strong&gt; joven.&lt;/p&gt;
+&lt;p&gt;Y sí, hay una cantidad importante de paralelismos con &lt;em&gt;The Good Place&lt;/em&gt;, y es otra obra que, para mí, falla enormemente en mostrar una vida de ultratumba eterna. Recuerdo haber visto la serie en su momento y emocionarme. Es preciosa, divertida y moralmente interesantísima ―¿tendría que evitar la leche de almendras?―, pero el final es una espinita en mi forma de pensar que hace que no sea perfecta.&lt;/p&gt;
+&lt;p&gt;Supuestamente, el Sitio Bueno ―o el Sitio Malo, depende de lo buena gente que seamos― es el lugar donde pasar toda la eternidad, el premio por una buena vida&amp;hellip; Pero para muchos de los personajes, una gran mayoría al final, no es suficiente: necesitan algo más. Esto hace que se cree una puerta para ir&amp;hellip; ¿adónde? ¿A otra vida? ¿A un renacer? ¿A la verdadera muerte final? Nadie lo sabe, pero, poco a poco, la mayoría de personajes van atravesando esta puerta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-08-01-cobardia-infinito/images/cobinfinito2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Esto hace que, al final, ese Sitio Bueno no sea más que otra versión de la vida: estamos aquí unos años ―mejor o peor― y luego pasa algo y ¿quién sabe qué hay después? Mi mente lucha continuamente entre considerar esto un giro interesante a un problema obvio y un truco sucio y cobarde para no enfrentarlo.&lt;/p&gt;
+&lt;p&gt;Y podría dejarlo ahí: un post cortito sobre por qué me suelen resultar insatisfactorias las tramas que tienen una vida después de la muerte. Pero quedaría muy pesimista y no aportaría tanto como me gustaría, así que voy a recurrir a un &lt;em&gt;fanfic&lt;/em&gt; que me encantó en su momento ―y cuyo nombre completo evito citar para no dar más influencia a la autora tránsfoba por excelencia―, y pongo a continuación una traducción propia de una parte en la que se habla de esta eternidad, esta vez en vida, y cómo se podría enfrentar:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;―¿Y qué harías tú con la eternidad, Harry?&lt;br&gt;
+Harry inspiró hondo.&lt;br&gt;
+―Conocer a toda la gente interesante del mundo, leer todos los libros buenos y entonces escribir uno mejor, celebrar el décimo cumpleaños de mi primer nieto en la Luna, celebrar el centésimo cumpleaños de mi primer tátara-tátara-tátaranieto en los anillos de Saturno, aprender las reglas más hondas y finales de la naturaleza, entender la naturaleza de la consciencia, saber por qué las cosas existen en primer lugar, visitar otras estrellas, descubrir alienígenas, crear alienígenas, reunirme con todos en una fiesta al otro lado de la Vía Láctea tras explorarla por completo, encontrarme con toda persona que naciera en la Vieja Tierra para ver cómo el sol finalmente se apaga y&amp;hellip; antes solía preocuparme por encontrar una forma de escapar de este universo antes de que se quedara sin neguentropía, pero ahora tengo esperanzas tras descubrir que las &amp;ldquo;leyes&amp;rdquo; de la Física son más bien meras pautas.&lt;/em&gt;&lt;/p&gt;
+  &lt;div style=&#34;text-align:right;&#34;&gt;—Fragmento del cap. 39 de &lt;em&gt;HPMOR&lt;/em&gt;, &lt;em&gt;Pretending to be Wise, Pt 1—&lt;/em&gt;&lt;/div&gt; &lt;br&gt;</content:encoded>
+
+      
+      <description><![CDATA[La vida, la muerte, el más allá&hellip; Todo se ha representado en la ficción, pero habitualmente de forma muy limitada.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Quién es la Expedición 33</title>
+      <link>http://localhost:1313/blog/2026-06-11-expedition33/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2026-06-11-expedition33/</guid>
+
+      
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Este post contiene spoilers de &lt;em&gt;Expedition 33&lt;/em&gt;, en todos sus actos y sobre todos los finales y personajes. Leerlo antes de conocerlos no solo te estropeará esa experiencia, sino que impedirá que entiendas muchas partes del texto.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/acto1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El 24 de abril de 2025, algo más de un año desde la fecha de este post, sale al mercado &lt;em&gt;Clair Obscur: Expedition 33&lt;/em&gt;, y unos meses después gana un montón de premios. Entre la primera fecha y la siguiente surgen muchas dudas y discusiones:
+¿Este juego es un triple A? Supuestamente, estos juegos son los que tienen una distribuidora o editores grandes y cuestan varios millones. &lt;em&gt;Expedition 33&lt;/em&gt; costó menos de 10 millones de dólares, lo que parece muchísimo —hace una década hubiera sido un presupuesto normal de triple A—, pero muy alejado de los videojuegos actuales.
+Vale, ¿es entonces un &lt;em&gt;indie&lt;/em&gt; creado por un grupo de 33 personas? Si nos ceñimos a la definición habitual, tampoco encajaría aquí: supuestamente ha de ser un grupo pequeño con bajo presupuesto, pero es que estas 33 personas han subcontratado a muchas más, basta con ver los créditos del juego.
+Mucha gente prefiere hablar de él como un doble A —término aún más complicado de definir—, pero sigue habiendo discusiones sobre si encaja realmente aquí o no.&lt;/p&gt;
+&lt;p&gt;Hablemos de su género, esto es fácil: es un JRPG.
+Suenan las alarmas, la gente grita y un gato chilla en la lejanía. «¿Cómo va a ser un JRPG —juego de rol japonés— si su equipo es claramente francés?». Y aquí nos encontramos con una particularidad de los videojuegos: un JRPG es un género concreto —estética animanga, diseños que resalten, elementos fantasiosos, incluso un mapamundi—, no es una indicación del origen del equipo de desarrollo. Igual que un &lt;em&gt;metroidvania&lt;/em&gt; no tiene por que hacer referencias directas a los &lt;em&gt;Metroid&lt;/em&gt; ni al &lt;em&gt;Castlevania&lt;/em&gt;, solo tienen parecidos en lo jugable.
+Pero incluso aquí podemos encontrar problemas: ¿es solo un RPG clásico, por turnos, o algo más cercano a un juego de ritmo? Parece una tontería, pero hay enemigos concretos que &lt;strong&gt;no responden&lt;/strong&gt; a los turnos, y han de ser derrotados desde el ritmo de los bloqueos y las esquivas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Expedition 33&lt;/em&gt; es un juego complicado de identificar y definir desde el propio principio, desde sus elementos más esenciales. Y esta complejidad solo empeora cuando nos acercamos a sus personajes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/acto2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Los personajes de esta historia son complicados, pero su esencia real la veremos en la parte final del juego, cuando realmente se muestra el mundo tal y como es.
+Podría empezar hablando del problema de la identidad con los personajes sin rostro, pero no solo estos acaban mostrando su naturaleza —algunos de forma más sutil que otros—, sino que no resultan tan interesantes como aquellos con los que compartimos aventura. De hecho, hablando de ellos, podríamos comentar cómo el cambio de atuendo o peinado les deja sin cierta identidad —sobre todo al descubrir que ir con ciertos trajes, como los de baño, hacen que otros personajes, Renoir, también vaya a juego, quitando toda la seriedad a la trama—, pero en su psicología y diálogos es donde veremos el problema de identidad:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/monoco.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Comencemos con Esquie, el personaje favorito de todos: es &lt;em&gt;mon amié&lt;/em&gt;, es vino, es risas y abrazos. Por eso puede sorprender que tenga algunos de los diálogos más duros escondidos en el juego: le dice a Sciel que él también se siente triste cuando pierde sus piedras, haciendo referencia a que ella pierde a su marido, Pierre (&amp;lsquo;piedra&amp;rsquo; en francés) cuando se encuentran. Otro muy significativo es aquel en el que dice a Verso «Sois primos (término que usa para Renoir también con su versión pintada). Iguales, pero diferentes». Ya aquí se nos presenta la identidad de algunos personajes como algo no tan sencillo: Verso, el que conocemos y controlamos, es una versión de pintura del &amp;ldquo;real&amp;rdquo;. ¿Hasta dónde llega el parecido? ¿Es este Verso, de alguna manera, parte o esencia del primero?&lt;/p&gt;
+&lt;p&gt;Habíamos mencionado a Sciel, y las posibles copias. Y es que ella, en una charla de campamento, admite que, aunque en ese momento no querría una copia de Pierre, en su momento sí hubiera cedido a ella. ¿Qué nos dice esto de la identidad de su marido? ¿Hubiera estado cómoda con esta situación? Las posibles respuestas que nos da el juego no son tan directas.&lt;/p&gt;
+&lt;p&gt;Alicia, personaje que nos podremos encontrar de forma opcional al final de la aventura, hablará con Maelle. La primera, personaje pintado; la segunda, persona real que ahora tiene recuerdos de sí misma, nuevos, verdaderos, pero criada en un mundo falso. Ellas dos luchan, amistosamente, y la primera le pide a la segunda desaparecer. Maelle lo hace sin que Verso pueda despedirse de ella o hacerla recapacitar. Y él lo echa en cara con la siguiente frase: «Tú no eres ella. No sabes qué hubiese pasado. La conozco mejor que tú». Y, aunque resulta duro, ¿es realmente cierto? ¿Cómo de separadas están las identidades? Y, si realmente lo están, ¿no las convertiría en personas distintas?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/alicia.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Más duro es el destino del personaje de Noco. Voy a ser claro aquí: no me entristeció demasiado su muerte. No lo conocía de tanto y, aunque me caía bien, me pareció una muerte muy precipitada —nada que ver con la de Gustave, por ejemplo—, y no entendí mucho su función narrativa. Esto fue, por supuesto, hasta que continué con la relación con Monoco: cuando subimos el nivel de relación del 4 al 5, hace una pregunta muy curiosa a Verso, diferenciando si es él o él de fuera —pintado o real—. Es aún más obvio todo cuando subimos un nivel más la relación: Noco revive en el río, sí, pero Monoco se lamenta: «Cada vez que regresa, cambia un poco. Me duele que nunca vaya a ser como antes». Cuando visitamos a Noco en la aldea, el juego nos dice «Noco ha perdido muchos recuerdos. Recuerdos que jamás recuperará». ¿Qué es la identidad entonces? ¿Solo los recuerdos? Parece que Noco, al perderlos, va siendo menos él mismo cada vez.&lt;/p&gt;
+&lt;p&gt;Todo esto lo vemos con las relaciones del campamento, pero incluso esto nos habla de la identidad de la Expedición 33 y, sobre todo, de quienes la controlan:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/acto3.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Vamos a lo más práctico: empecemos el juego. Después de la primera cinemática tomamos el control de Gustave, por lo que suponemos que será nuestro protagonista. Perfecto, está claro, avanzamos. Luchamos contra Maelle y controlamos al protagonista también en la pelea. Avanzamos más, y nos encontramos a Sophie, antiguo interés romántico del protagonista. Charlan y continuamos. Hablamos con otros personajes y&amp;hellip; somos Sophie. Dependiendo de con quién hablemos, el personaje receptor será uno u otro, y cambiará a quién controlamos. Vale, sigamos.&lt;/p&gt;
+&lt;p&gt;Sophie muere, Gustave viaja y, aunque está a punto de morir, sobrevive. Lo seguimos controlando y el aviso del Acto I nos hace creer que sí, que esta vez será el protagonista. Nos lo creemos hasta que Lune entra en nuestro equipo, y vemos que podemos cambiar con un botón a quién controlamos.&lt;/p&gt;
+&lt;p&gt;«Esto no es tan raro» podemos pensar «no es el primer juego que permite cambiar, estéticamente, al líder del grupo». Y continuamos. Maelle se une a nosotros, y luego Esquie. Y entonces vemos que en el mapamundi podemos controlarlo a él. No voy a decir que sea el protagonista, pero no es lo mismo que llevar un barco o un avión en otros juegos, pues estos claramente son controlados por alguien, sino que es un personaje más de quien tomamos el control.&lt;/p&gt;
+&lt;p&gt;Bueno, pensemos solo que es un detalle sin importancia. Sigamos, hasta que la historia mata a Gustave. ¿Qué? ¿No era el protagonista? Pues no, parece que ahora lo es Verso, que comparte ciertas características con él, y empezamos el Acto II. ¿Podría ser que cada acto tenga un protagonista? Vayamos con esa teoría por el momento, pues a él lo controlamos cuando llegamos al campamento, sin opción de tomar el control de nadie más.&lt;/p&gt;
+&lt;p&gt;De hecho, aparecen las relaciones con el resto de personajes, y claramente van en dirección a Verso: Verso con Maelle, con Lune, con Sciel, con Esquie —a quien ya conocía—&amp;hellip; Esto funciona hasta que escribimos en el diario. Algo que hacía Gustave, ahora es el trabajo de Maelle. Pero ella no decide hacerlo, sino que vamos, controlando a Verso, elegimos escribir en el diario y &amp;ldquo;obligamos&amp;rdquo; a Maelle a hacerlo.&lt;/p&gt;
+&lt;p&gt;La identidad en este juego es tan voluble que hasta el siguiente personaje se basa en eso: Monoco puede convertirse en enemigos para actuar como ellos durante el combate. Poco se entra en esta mecánica más allá de las razones por las que lo hace, pero encaja con esta abstracta identidad presente de forma continua.&lt;/p&gt;
+&lt;p&gt;Vale, entonces en el Acto II Verso es un protagonista, más o menos, y lo controlamos&amp;hellip; Pero tampoco tiene tanto sentido: Verso tiene un conocimiento sobre la trama muy superior al resto y no dice nada a nadie. Ni a ningún personaje ni a quien está jugando. ¿Cómo es posible controlar a alguien y, a la vez, no saber cuáles son sus intenciones reales o qué hace en el grupo? Es posible que &lt;em&gt;Heavy Rain&lt;/em&gt; resuelva esto mismo aún peor que este juego, pero vemos un claro problema de identidad.&lt;/p&gt;
+&lt;p&gt;Entonces no es el protagonista, nos olvidamos de esa teoría&amp;hellip; Pero el juego nos mete ahora, en el Acto III, el romance. Por un lado, pensamos que el Acto III tiene su propia protagonista, Maelle, que además es el único personaje &amp;ldquo;real&amp;rdquo;. Por otro, Verso sigue siendo nuestra interfaz para interaccionar con el resto de personajes y, por si fuera poco, aparecen las opciones de romance. Una amiga me dijo que sobraban por completo, y no podría estar más de acuerdo, sobre todo viendo cómo complica la relación con la identidad.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/final.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Si alguien pensaba a estas alturas que el final del juego nos aclararía algo, siento decir que al contrario: en primer lugar se nos da la opción de jugar como Maelle o como Verso. Alguien puede pensar que el de Verso es el final canónico, el pensado por los desarrolladores, pero ya admitieron que ninguno lo es. En ese final, todo acaba. Maelle/Alicia vuelve al mundo &amp;ldquo;real&amp;rdquo;, con su familia &amp;ldquo;de verdad&amp;rdquo; a la que hace 16 años que no ve y todo el mundo mira una tumba que nos deja caer que ese mundo tampoco es tan real. No se nos habla de las relaciones de la familia Dessendre, pero es bastante claro que estarán heridas de muerte después de los sucesos del juego. Y, sin embargo, aquí Alicia no es solo ella: ha vuelto a su vida, a un cuerpo que no quería habitar, pero con 16 años de experiencias de otras personas. ¿Quién es ella?&lt;/p&gt;
+&lt;p&gt;Elegimos entonces el final de Maelle, aunque solo sea por ver qué ocurre&amp;hellip; Y por no volver a ver &lt;strong&gt;esa&lt;/strong&gt; mirada de Lune.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-06-11-expedition33/images/lune.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Maelle se queda de forma indefinida en el mundo en el que llevamos todo el juego, y vemos aparecer a varios personajes. Algunos vivos (Sciel, Lune), otros muertos (Pierre, Gustave) y luego uno que no sabemos si es él mismo o no: Verso. Supongamos que Sciel y Lune son las mismas de antes —aunque ya se las trajo a la vida en otra ocasión—, ¿es el resto la misma persona que al inicio del juego? ¿Es Pierre ese marido que Sciel elegiría no tener? ¿Sabe Gustave quién es Maelle, y esto ha cambiado su relación? ¿Está el Verso que da su concierto de piano allí en contra de su propia voluntad? Nos vamos más lejos aún: ¿Maelle ha perdido toda su identidad pasada como Alicia?&lt;/p&gt;
+&lt;p&gt;Sé que &lt;em&gt;Expedition 33&lt;/em&gt; da para hablar de mil cosas: de sus personajes, de sus finales, de qué es real y qué no, de todos los secretos ocultos, de lo interesante que sería otro juego con los escritores —lo tenemos, se llama &lt;em&gt;Alan Wake&lt;/em&gt;—, pero al terminarlo, después de varios meses de sesiones interrumpidas, lo que quedaba en mi mente era la identidad.&lt;/p&gt;
+&lt;p&gt;Para bien o para mal, este juego habla continuamente de ella, tanto en lo narrativo como en lo mecánico, y no podía sino dedicarle unas líneas, unos párrafos.&lt;/p&gt;
+&lt;p&gt;Al final, este juego es un juego de ritmo, un RPG por turnos, un juego de acción, de plataformas, de vóley. Es un juego que habla de lo real y lo que no, de la importancia de aprender a perder, y de dejarnos descansar antes de enfrentarnos directamente al dolor. Nos habla de esto con personajes que no son reales, y que al final son lo único que importa. Nos deja controlarlos, nos quita su control, pone el foco en unos mientras los importantes son otros. Nos engaña, nos zarandea y nos hechiza.
+Es un juego tremendamente imperfecto en muchos puntos, y eso solo lo hace mejor.&lt;/p&gt;
+</content:encoded>
+
+      
+      <description><![CDATA[Expedition 33 trata muchos temas, pero el de la identidad lo enfoca de manera muy curiosa, tanto en lo narrativo como en la jugabilidad.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Por qué los domingos no puedes leer esto</title>
+      <link>http://localhost:1313/blog/2026-03-29-futbol/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2026-03-29-futbol/</guid>
+
+      
+      <content:encoded>&lt;p&gt;Hace casi dos meses ha salido la preocupantísima y alarmante noticia de que hay personas que quieren prohibir el fútbol en los colegios e institutos. Es muy fácil ver noticias que hablan al respecto: en vuestro buscador favorito escribís &amp;ldquo;fútbol colegios podemos&amp;rdquo; y las noticias que hablan de esto —especialmente de cierto tipo de periódicos— las veréis a decenas. El problema viene cuando queremos ver las declaraciones iniciales, y no la noticia de una noticia de una reacción a las supuestas declaraciones. Cuesta. Y cuesta mucho llegar a la primera declaración, pero —y aunque esto daría para hablar de los graves problemas del periodismo actual— al final podemos ver cómo alguien ha dicho que «el uso del espacio no es neutral. Tradicionalmente, los campos de fútbol ocupan hasta el 80 % del patio, situándose en el centro y siendo utilizados mayoritariamente por los niños, mientras que las niñas quedan relegadas a los márgenes».&lt;/p&gt;
+&lt;p&gt;Y creo que nadie puede negar esto: en un instituto habitual —yo lo veo en el mío y eso que se han hecho cambios para solucionarlo—, el campo o los campos de fútbol son el centro. Además, ocupan mucho más espacio que otros deportes o actividades. E, innegablemente, su uso es mayoritariamente masculino. De hecho, las &amp;ldquo;soluciones&amp;rdquo; que presenta esta horrible, horrible gente que quiere desplazar al fútbol incluyen habilitar zonas con sombra y agua, lugares para el descanso, lectura y conversación y el promover deportes no competitivos, sino cooperativos, desplazando la centralidad del fútbol. No acabar con él, obviamente.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-03-29-futbol/images/futbol1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;¿Cuál es el problema &lt;strong&gt;real&lt;/strong&gt; de la situación actual? ¿Que los chavales tengan que jugar al fútbol para mantener cierta masculinidad? ¿Que las chicas se vean desplazadas en el momento de descanso? Bueno, podrían ser unos problemas que dan para artículos, sí, pero creo que una de las implicaciones que tiene esto es que se perpetúa un modelo que luego se mantiene en el mundo adulto.&lt;/p&gt;
+&lt;p&gt;Cuando vemos por la televisión imágenes de una manifestación —tristemente, cada vez menos comunes— no es raro que las cámaras vayan a grabar contenedores, papeleras o incluso farolas que se han podido ver afectados, especialmente si ha habido cargas por parte de los antidisturbios o si estos —bien desde dentro, bien desde fuera— han causado alboroto durante las protestas. Esta intignación se deja ver durante las noticias, que se habla de que, bueno, está bien protestar, pero no &lt;em&gt;así&lt;/em&gt;. Y, uy, toca hablar de los deportes. Y, por lo que sea, no se comenta que los fans después de un partido han ido por la calle rompiendo bancos, papeleras, escaparates&amp;hellip; O de que ha habido peleas en la salida del estadio.&lt;/p&gt;
+&lt;p&gt;Pero no, no voy a hablar solo de los &amp;ldquo;peores&amp;rdquo; casos: en mi ciudad, cada vez que había un partido &amp;ldquo;grande&amp;rdquo;, al acabar este, la afición del equipo que ganara iba a una fuente cercana a mi casa a gritar, silbar, golpear y todo lo que hiciera falta. Mientras tanto, los coches pasaban pitando —la gente cogía el coche solo para hacer esto— y sonaban petardos.&lt;/p&gt;
+&lt;p&gt;Esto ocurría un domingo de once de la noche hasta que diera el cuerpo, y yo tenía clase al día siguiente. El pasado que he usado en todo momento es porque ya no estoy viviendo allí, pero esto continúa.&lt;/p&gt;
+&lt;p&gt;La gran duda que puede surgir aquí es: ¿por qué se permite esto? ¿Por qué hay muchísima más complaciencia con los fans del fútbol que con quienes se manifiestan, por ejemplo? Pues por las mismas razones por las que muchísima gente ve normal que haya fútbol ¡y nada más! en los patios de colegio.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-03-29-futbol/images/futbol2.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pasemos, sin embargo, a hablar de lo que trata realmente este post: ¿qué ocurre con Internet? O sea, sí. La situación social respecto al deporte rey en España es algo que no deberíamos ignorar, pero creo que lo más representativo de esto es lo que acontece cada domingo —o cualquier día de partido importante— en nuestras redes (siendo &amp;ldquo;nuestras&amp;rdquo; las españolas).&lt;/p&gt;
+&lt;p&gt;Resumen rápido para aquellas personas que no sepan qué está ocurriendo: LaLiga (empresa privada que lleva la Primera División de Fútbol en España cuyo nombre real tiene un patrocinio de estos vergonzoso) ha conseguido que un juez que tiene tanto conocimiento de redes como yo de crochet —poco teórico y nada práctico— les diera permiso para bloquear las webs que consideren que son &amp;ldquo;piratas&amp;rdquo; y que emiten fútbol sin licencia.&lt;/p&gt;
+&lt;p&gt;Razonable, ¿no?&lt;/p&gt;
+&lt;p&gt;Bueno&amp;hellip; Veamos primero qué webs han afectado, además de las supuestas piratas: la &lt;a href=&#34;https://www.lavanguardia.com/local/barcelona/20250901/11016071/bloqueo-pirateo-futbol-deja-oscuras-51-000-pasajeros.html&#34;&gt;app catalana Transporta&amp;rsquo;m&lt;/a&gt;, que ofrece de forma gratuita los horarios del transporte público; el juego &lt;a href=&#34;https://www.adslzone.net/noticias/videojuegos/laliga-bloquea-juego-online-miles-usuarios-steam/&#34;&gt;Blue Protocol&lt;/a&gt; de Steam&amp;hellip; y &lt;a href=&#34;https://www.marca.com/videojuegos/juegos/2025/05/13/steam-te-falla-puedes-jugar-culpa-vuelve-laliga-jornada-futbol.html&#34;&gt;Steam en sí mismo&lt;/a&gt;, además de los servicios de la Steam Deck; la web de los &lt;a href=&#34;https://www.adslzone.net/noticias/internet/web-hm-hospitales-bloqueos-laliga-futbol/&#34;&gt;hospitales HM&lt;/a&gt; o para &lt;a href=&#34;https://www.xatakamovil.com/mercado/bloqueos-laliga-se-cobran-victimas-insospechadas-quienes-necesitan-buscar-farmacia-guardia&#34;&gt;buscar farmacias de guardia&lt;/a&gt;; hay problemas con los &lt;a href=&#34;https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20260316/pagos-internet-dejan-funcionar-espana-polemica-posible-bloqueo-laliga-plataforma-redsys/1003744171973_0.html&#34;&gt;pagos por Internet&lt;/a&gt;; con &lt;a href=&#34;https://www.xataka.com/empresas-y-economia/hay-cosa-preocupante-que-que-laliga-no-pare-bloquear-internet-que-nos-hemos-acostumbrado-a-ello&#34;&gt;Linux Mint&lt;/a&gt;; y hasta &lt;a href=&#34;https://elchapuzasinformatico.com/2026/02/laliga-bloquea-dominio-web-gobierno-estados-unidos-evadir-censura-en-europa/&#34;&gt;el dominio estadounidense creado para evitar la censura&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-03-29-futbol/images/futbolpa.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Estos bloqueos se deben a que LaLiga puede bloquear cualquier IP y, en vez de apuntar a dominios pirata, usa su herramienta como una escopeta de feria, prefiriendo pasarse a quedarse corta, hasta el punto de afectar a todo &lt;a href=&#34;https://www.redeszone.net/noticias/redes/laliga-telefonica-utiliza-cloudflare-bloqueo/&#34;&gt;Cloudflare&lt;/a&gt;, que, irónicamente, también aloja la página antipiratería de LaLiga (esta no la enlazo, porque es vergonzosa la cantidad de tonterías que están escritas en ella).&lt;/p&gt;
+&lt;p&gt;Resumo un poquito: hay gente que piratea el fútbol —normal, costando desde 280€ al mes para los bares, por ejemplo—, esto al monopolio de LaLiga no termina de gustarle y convence a un juez para que les permita bloquear webs. Cuando, contra todo pronóstico, esto se acepta, la empresa se dispone a bloquear a Cloudflare entero —recordemos que ofrece dominios y servicios para ciertas webs, pero que obviamente no es responsable de qué hay en ellas— en lugar de simplemente bloquear a las webs pirata en sí, y acaba afectando a todo un país.&lt;/p&gt;
+&lt;p&gt;Este mismo blog permanece no accesible muchos domingos precisamente por esto: al estar alojado en Cloudflare, la mayor parte de domingos esta dirección está bloqueada en España mientras veintipocas personas dan patadas a un balón. Y esto es un blog personal, por lo que es, dentro de lo que ocurre, la web menos afectada, pues se podrá seguir leyendo el lunes, pero sigue sin tener sentido que esté bloqueada. Imaginad quien no puede acceder a Steam precisamente en su día libre, no puede ver a qué hora pasa el bus, qué farmacia está abierta&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Y la razón por la que esto se permite es la misma que hace, volviendo al inicio del artículo, que haya gente indignada porque se proponga que el fútbol en el colegio deje de ser &lt;strong&gt;tan&lt;/strong&gt; central —no hablemos ya de prohibirlo, cosa de la que aún ni se ha hablado—: disfruta de una posición tan dominante en nuestra sociedad, y aquí el género mayoritario de los fans no es casualidad, que se le permite absolutamente todo. ¿Ocupar el espacio público? Bueno, otras personas pueden usarlo en otro momento. ¿Molestar a otros? No pasa nada, total, por un día&amp;hellip; ¿Bloquear internet? Nah, si solo afecta a especialistas o, ¿por qué no decirlo? &lt;a href=&#34;https://youtu.be/a1b3QEeBPKw?t=39&#34;&gt;a unos frikis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La justicia debería ser garantista, es la teoría, y no afectar a personas inocentes. Por esto la justicia tendría que estar en manos de jueces, no del presidente de una empresa a quien le da igual que afecte a hospitales, farmacias, a la RAE (esta se me olvidó antes, &lt;a href=&#34;https://www.elespanol.com/reportajes/20251101/tebas-arrasa-guerra-futbol-pirata-bloqueos-tumban-webs-rae-negocio-adriana/1003743994474_0.html&#34;&gt;pero ocurrió&lt;/a&gt;) o a blogs chiquitos.&lt;/p&gt;
+&lt;p&gt;No quiero terminar con un mensaje negativo, eso sí. La situación es rara, y España es un país no que bloquee webs, sino que permite que una empresa privada lo haga a diestro y siniestro sin pensar en quién afecta. Pero esto tiene una solución fácil: una VPN. No, no voy a ponerme técnico, no os preocupéis. Una VPN simplemente redirige el tráfico y, dado que son las telefónicas españolas quienes han de bloquear estas webs, basta con &amp;ldquo;engañarlas&amp;rdquo; diciéndoles que nuestro tráfico viene de otro país. Hay muchas VPN por ahí, algunas gratuitas, pero os recomendaré la que siempre me ha funcionado, es gratuita y &lt;a href=&#34;https://xcancel.com/ProtonVPN/status/2023737986899472551&#34;&gt;ya ha negado la legitimidad de estos bloqueos&lt;/a&gt;, ProtonVPN. La tenéis como &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/proton-vpn-firefox-extension/&#34;&gt;addon para Firefox&lt;/a&gt;, como &lt;a href=&#34;https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa?pli=1&#34;&gt;extensión para Chrome&lt;/a&gt;, como &lt;a href=&#34;https://protonvpn.com/es-es/download-linux&#34;&gt;aplicación de Linux&lt;/a&gt;, de &lt;a href=&#34;https://protonvpn.com/es-es/download-windows&#34;&gt;Windows&lt;/a&gt; o para &lt;a href=&#34;https://protonvpn.com/es-es/download-android&#34;&gt;Android&lt;/a&gt;. Requiere registro y nada más.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-03-29-futbol/images/futbol4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Podéis preguntaros si las VPNs os dejarán disfrutar realmente de la web a pesar de lo que opine LaLiga, pero no tenéis que preocuparos: las VPNs se saltan este bloqueo sin ningún problema. Y, si no, preguntádselo a quienes ven el fútbol sin pagar: llevan usándolas desde el primer día de bloqueos.&lt;/p&gt;
+</content:encoded>
+
+      
+      <description><![CDATA[El fútbol tiene un papel clave en la sociedad española, para bien o para mal, y esto lleva un tiempo afectando a Internet.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Un verano inolvidable</title>
+      <link>http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/</guid>
+
+      
+      <content:encoded>&lt;p&gt;Llevo unos años viendo k-dramas, o dramas coreanos, y una vez ves unos cuantos comienzas a ver un patrón: tema romántico en 16 episodios con un “falso” beso sobre el 8, uno de verdad en el 12 y una separación en el 14. Estéticamente preciosos, todo el mundo usando marcas carísimas (hasta la protagonista, paupérrima por lo demás), móviles de Samsung (de los que se cierran sobre sí mismos, si la serie tiene sobre 5 años o menos) y con triángulos amorosos continuos (una ella y dos ellos, invariablemente). Con un poco de suerte, el rechazado acabará con la amiga de la infancia de ella. Hablando de infancia: ¡la pareja se conocía de antes! De niños, de adolescentes, porque un día coincidieron en un bus, porque la hermana del primo de la pescadera lo mencionó a uno de ellos de pasada…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/images/2521-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Parece un poco tonto, pero la gente que no es habitual de esta serie no puede ni imaginarse hasta qué punto sale cada mes la misma serie. Y esto no es necesariamente algo negativo: a veces lo que necesitamos es la predictibilidad, lo de siempre, para ver algo mientras dejamos el cerebro medio apagado.&lt;/p&gt;
+&lt;p&gt;Sería un poco dejado por mi parte no señalar también que son series habitualmente escritas desde un punto de vista femenino (muchas veces basadas en el webtoon de una autora) y pensadas para un público femenino también. Esto, unido al hecho de que la cultura surcoreana está muy presente en las series, nos deja con la importancia de la estética, del lujo, de las relaciones interpersonales… Y del bebercio, que les gusta bastante; no en vano, &lt;a href=&#34;https://worldpopulationreview.com/country-rankings/alcoholism-by-country&#34;&gt;la proporción de alcoholismo en Corea del Sur es casi el doble que en España&lt;/a&gt;, por poner un ejemplo.&lt;/p&gt;
+&lt;p&gt;Pero algo interesante que tiene el que esté pensada por y para mujeres es el hecho de que al principio había unos estándares de hombres muy concretos: duros por fuera, pero blanditos por dentro; celosos, sobreprotectores; y guapos y sexis, claro. Sin embargo, esto ha ido cambiando con los años, y ahora tenemos un protagonista respetuoso y comprensible en &lt;em&gt;Miss Night and Day&lt;/em&gt; (&lt;em&gt;Ella de día, otra de noche&lt;/em&gt; en España) o al marido maravilloso en &lt;em&gt;Si la vida te da mandarinas&lt;/em&gt; (bueno, leal, amoroso y dispuesto a luchar y sacrificarse por su mujer; con contradicciones de su época, pero que intenta romper con ciertos roles de género), o simplemente un hombre empático en &lt;em&gt;Summer Strike&lt;/em&gt;. O, ¡qué narices! Quien es el novio perfecto, Babi, en &lt;em&gt;Yummi&amp;rsquo;s Cells&lt;/em&gt;. Sin embargo, y aunque este tema dé para tesis (de verdad, creo que la relación entre el feminismo y el movimiento 4B en Corea del Sur y la representación de los k-dramas es clarísima), simplemente quería poner unos cuantos ejemplos de los tópicos habituales para hablar de la serie que se los carga todos, uno por uno:&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;em&gt;En garde!&lt;/em&gt;
+&lt;/div&gt;
+&lt;p&gt;No sé si habréis oído hablar de &lt;em&gt;Veinticinco veintiuno&lt;/em&gt; o no, supongo que dependerá de lo cerca que estéis de los ambientes de k-dramas, pero si estáis algo cerca (o si ha surgido el tema cerca de mi pareja), como mínimo os sonará. Si no… Voy a tratar de hablar muy por encima del argumento, aunque no quiero estropear la experiencia a nadie que no lo haya visto aún:&lt;/p&gt;
+&lt;p&gt;Una chica, Hee-do, practica la esgrima en el momento de la crisis financiera asiática (también conocida como la crisis del FMI, pues fue quien acabó interviniendo), crisis que le deja sin su deporte favorito y meta en la vida. Conocerá a un chico, Yi-jin, y a otra esgrimista (Yoo-rim), en esta situación en la que tratará de recuperar su sueño.&lt;/p&gt;
+&lt;p&gt;Esto es apenas un esbozo, a propósito superficial, del primer episodio, donde evito hablar de nada importante, dado que creo que es una serie que merece mucho la pena ver lo más a ciegas posible, incluso aunque no la vea alguien fan de los k-dramas. Baste tener en mente que la serie se desarrolla a finales de los años 90 y avanza con el nuevo siglo, por lo que mucho de lo que ocurre se da con una época de fondo muy reconocible para su público objetivo (habitualmente el coreano). Un factor clave será, entonces, la nostalgia.&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;em&gt;Prêts?&lt;/em&gt;
+&lt;/div&gt;
+&lt;p&gt;Es una serie en la que va todo con calma, especialmente al principio, y los conflictos son, mayoritariamente, de relaciones entre personas, por lo que no nos sorprenderá comprobar que el eppisodio número diez es un episodio de playa, un concepto muy típico en otro medio, el anime: todos van a pasar un día a la playa, con comida, diversión y tranquilidad, siendo normalmente un parón en la trama que deja que respire o que sirve para tratar la evolución y las relaciones de los personajes. Además, en la animación japonesa sirve para mostrar adolescentes semidesnudas y eso, pero no es importante para este episodio.&lt;/p&gt;
+&lt;p&gt;Bajo la excusa de grabar una parte de un vídeo documental —esto tiene que ver con Hee-do siendo esgrimista—, Yi-jin, el protagonista masculino, la lleva a la playa, junto con otros tres amigos. Este grupo de cinco llega allí y Yi-jin se da cuenta de que ser cuatro años mayor en ese momento implica muchísima distancia: los demás no saben cocinar cosas básicas y, aunque esto sirve para tener un rato de humor, también ayuda a distanciar un poco la relación principal, al menos de cara al público.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/images/2521-3.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Comen, juegan, compran fuegos artificiales —de esos que echan chispitas, no de los que asustan a personas neurodivergentes y animales— y se sacan fotos. Al final del capítulo hay una escena con los cinco mirando al mar, y hablando de «comprar el verano». Quieren que ese momento sea solo para ellos.&lt;/p&gt;
+&lt;p&gt;—¡El verano es nuestro! —grita uno de los personajes.
+—¡Pero qué vergüenza das! —responde otro en el mismo tono.&lt;/p&gt;
+&lt;p&gt;Pero da igual. Están juntos, son jóvenes, son amigos y ese momento dura solo un instante y para siempre a la vez.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;https://www.youtube.com/watch?v=-pmrMJjUCnI&#34;&gt;música&lt;/a&gt; lleva un rato sonando, pero ahora empieza a apagarse. Hay un barrido de las caras de los cinco, que ríen y miran al horizonte y entre ellos. Yi-jin mira hacia arriba y la cámara nos muestra el enorme atardecer, con ellos abajo, minúsculos.&lt;/p&gt;
+&lt;p&gt;Solo unos segundos después hay un primer plano de Hee-do: «siento que este momento durará para siempre». Yi-jin tiene una sonrisa triste: «quizá así será», pero es cuatro años mayor, y parece estar pensando que es imposible. «Eso espero» dice ella, sonriéndole.&lt;/p&gt;
+&lt;p&gt;La música sube de nuevo. Vemos un plano de los cinco y vuelve la cámara a alejarse, empequeñeciéndolos contra lo eterno del cielo y el mar. Hay un efecto de sonido de obturador y el vídeo se para, como si se hubiera sacado una foto de ese momento, eterno e inolvidable.
+&lt;img src=&#34;http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/images/2521-1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La primera vez que vi este momento no me impactó tanto, pero lo interesante es que sabía —había visto ya muchas series coreanas— que el episodio se había terminado, y no quería ver el avance del siguiente.&lt;/p&gt;
+&lt;p&gt;Sin embargo, cuando me levanté para poner el siguiente, vi que no era el final aún.&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;em&gt;Allez!&lt;/em&gt;
+&lt;/div&gt;
+&lt;p&gt;Voy a hacer una pequeña pausa, porque creo que no he hablado lo suficiente de lo que tira esta serie de la nostalgia.&lt;/p&gt;
+&lt;p&gt;Comenté que está ambientada en la época de la crisis del FMI, pero ¿sabíais que en Corea del Sur había una &lt;a href=&#34;https://mblogthumb-phinf.pstatic.net/MjAyNDA2MDRfMjY3/MDAxNzE3NDU1OTMzOTA4.Cx_GjLcHw-Dqzs9Qi8624_POlSDJI1nsfzYQiRPSclMg.ETh93wbiRVF--jDH_K7I87K4IRc3Whph55VrEbXaCFcg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-04_%EC%98%A4%EC%A0%84_8.04.32.png?type=w800&#34;&gt;hamburguesa FMI&lt;/a&gt; que era muy, muy barata? Sale en la serie. ¿Sabíais que Shin Chang-won se escapó de la cárcel durante los noventa y tardaron casi tres años en dar con él? Cuando lo atraparon llevaba una &lt;a href=&#34;https://lh3.googleusercontent.com/mUzaO7zHyHxbTs4SxGSI6hNVermQGSu_d5oG4-BfmvoG8fJuhox4POiwgLcUd16zGra_PiA0IdDRSgeVLlY4vt4eSoKEuEfAWbSD3GXUa3NHG64=nu-e365-rj-q80-w925&#34;&gt;camisa llamativa&lt;/a&gt; que se puso rápidamente de moda en los institutos. Sale en la serie. ¿El efecto 2000? Sale en la serie. ¿Los busca o &lt;em&gt;beepers&lt;/em&gt;? Salen en la serie. Hasta el inicio y final de los episodios están visualmente en un formato VHS.&lt;/p&gt;
+&lt;p&gt;La serie rezuma nostalgia allá por donde pasa, sí, hasta el punto de estar hecha desde el año 2021 —y aquí vemos una mirada al pasado algo diferente, la de la pandemia.&lt;/p&gt;
+&lt;p&gt;Esta historia no la vemos sin más, si no que nos guía Kim Min-chae, la hija de Na Hee-do. Ella ve el pasado de su madre y nosotros a través de sus ojos. Entonces, pasamos al final real del episodio:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2026-01-29-veinticincoveintiuno/images/2521-4.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ella se queja de no poder hacer nada durante las vacaciones, y Hee-do le responde que están en medio de una pandemia. La hija responde que nunca ha ido de vacaciones durante el instituto, y entonces su madre le responde que ella tampoco.&lt;/p&gt;
+&lt;p&gt;—Fuiste a la playa con tus amigos, vi las fotos del álbum —le responde Min-chae, que, como nosotros, acaba de recibir esa información.&lt;/p&gt;
+&lt;p&gt;Y&amp;hellip; Este es mi episodio favorito, en parte por lo que ocurre a continuación: esta es una serie que lucha contra los tópicos de su género, pero también contra los suyos propios: depende de la nostalgia, de que la gente se acuerde de aquella época y pueda sentirse cercana. Pero, al final de este episodio, nos dice que eso no tiene tanto valor.&lt;/p&gt;
+&lt;p&gt;Vemos que Hee-do no se acuerda en absoluto. Peor aún, ese momento que duraría para siempre, en el que obtendrían el verano para ellos y que sería clave en sus vidas no parece siquiera importante.&lt;/p&gt;
+&lt;p&gt;—Nada dura para siempre —sentencia la Na Hee-do adulta—, todo es muy efímero y los momentos pasan. Y eso no es necesariamente algo malo.&lt;/p&gt;
+&lt;p&gt;Fundido a negro, termina el episodio.&lt;/p&gt;
+</content:encoded>
+
+      
+      <description><![CDATA[El verano es una época que se suele recordar con cariño, sobre todo ligada a experiencias en las que conectamos con otras personas. En este k-drama dedican casi un episodio completo a una de estas experiencias, y es mi favorito de toda la serie.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </item>
+    
     <item>
       <title>Volver a hacernos sentir Final Fantasy VII (Remake)</title>
-      <link>http://localhost:1313/blog/ffviire/</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ffviire/</guid>
-      <description>Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.</description>
+      <link>http://localhost:1313/blog/2025-07-26-ffviire/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-07-26-ffviire/</guid>
+
+      
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Este post contiene spoilers tanto del original Final Fantasy VII de  PlayStation, como de los dos remakes posteriores (Remake y Rebirth).&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:right;&#34;&gt;Nota: este post se publicó, previamente, el 14 de mayo de 2025, pero se ha resubido con algunos cambios. A su manera, este post es el remake del anterior.&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;Cuando se anunció que &lt;a href=&#34;https://www.youtube.com/watch?v=p1OvupaRYCM&#34;&gt;Final Fantasy VII tendría un remake&lt;/a&gt;  me alegré mucho. Luego anunciaron que tendría tres partes y me preocupé un poco. Y, al, me ofendí muchísimo cuando vi que el título del  primer juego sería “FInal Fantasy VII Remake”, en parte por lo cutre y predecible, pero, sobre todo, porque hubiera sido maravilloso que se hubiera llamado  “Remako”. Los directivos no tienen humor.&lt;/p&gt;
+&lt;p&gt;Ignorando la mejor oportunidad perdida del mundo, la idea estaba clara: se iba a hacer Final Fantasy VII de nuevo. Podría entrar aquí en las diferencias entre remaster (habitualmente solo es un cambio gráfico, lo que se ha hecho hace poco con &lt;a href=&#34;https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/&#34;&gt;Oblivion&lt;/a&gt;),  remake (volver a hacer el juego, a veces con cambios) y reboot (reinicio, normalmente de una saga, como los &amp;ldquo;nuevos&amp;rdquo; &lt;a href=&#34;https://store.steampowered.com/app/203160/Tomb_Raider/&#34;&gt;Tomb Raider&lt;/a&gt;); pero lo importante es lo que ocurre, sin tanta terminología: Final Fantasy VII Remake vuelve al inicio del juego, reinventando el sistema de combate, con gráficos  actuales y… ¿con la misma historia?&lt;/p&gt;
+&lt;p&gt;Pues no, y eso es parte de lo que ha enfadado a la comunidad.&lt;/p&gt;
+&lt;p&gt;Si algo me ha llamado a escribir este texto es el hecho de que no he visto &lt;strong&gt;prácticamente ningún artículo o comentario sobre el segundo juego&lt;/strong&gt;, y eso, creo, se debe a que la gente no está muy contenta con el rumbo de la trilogía, que juega con el destino, lo que tenía que pasar (asumimos aquí que es lo que ocurre en el juego original) y cómo evitarlo.&lt;/p&gt;
+&lt;p&gt;El primer juego, Remake, se centra en la ciudad de Midgar. Alguien puede pensar «uy, pero si ni siquiera es el primer CD completo y hay tres», pero tiene fácil explicación: el tercer CD del  original apenas tiene historia y, además, el segundo juego, Rebirth, es  enorme. Pero vamos con Midgar:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Vista aérea de la ciudad de Midgar en el juego&#34; src=&#34;http://localhost:1313/blog/2025-07-26-ffviire/images/ffvii2.webp&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;p&gt;La ciudad de Midgar, que podríamos definir como &lt;a href=&#34;https://i.redd.it/4hw4ty1bdgc61.jpg&#34;&gt;una &amp;amp;^#$# pizza&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;
+En Remake vemos una historia muy parecida al original… Pero con ciertos cambios: hay “susurros” que evitan que cambie el destino, reviviendo a Barret al final del juego, por ejemplo, ya que este no debía morir, pero el grupo principal decide luchar contra el destino en el último capítulo, abriendo la puerta a aún más cambios respecto al juego original de cara al segundo juego.
+&lt;p&gt;A mucha gente esto le molestó (igual que el cambio de RPG por turnos a un action-RPG), como si lo que fuera que pasara en estos juegos cambiara retrospectivamente los CDs de nuestra infancia y los destruyera. Pero a la gente le está enfadando aún más lo que ocurre en Rebirth:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Los “susurros” rodeando a Cloud y Aerith&#34; src=&#34;http://localhost:1313/blog/2025-07-26-ffviire/images/ffvii3.webp&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+Los “susurros”, asegurándose de que nada se mueve un milímetro del juego original, y fallando estrepitosamente. ¿Serán metáforas de los fans?
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Sé que ya he avisado de los spoilers, pero veo posible que alguien haya llegado aquí sin jugar Rebirth. En los siguientes párrafos hablaré, directamente, del final del juego, es tu última oportunidad para invertir entre 50 y 100 horas para pasártelo sin spoilers. Sí, este es larguito.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vamos a suponer que lo anterior era un prólogo para presentar de lo que realmente quiero hablar: del final de Rebirth.&lt;/p&gt;
+&lt;p&gt;Pero hablemos primero del final del CD primero original: si jugasteis al  Final Fantasy VII de la PlayStation en su momento es posible que no os quedaran claras algunas cosas, bien por fallos de traducción, bien por ser un juego muy japonés en su tono, bien porque el guion original del juego da tumbos a veces, bien por una mezcla de las anteriores. Pero también puede ser que vierais (o incluso escribierais) en foros comentarios sobre si Aerith seguía viva o no. O hasta si podría ser revivida de no ser así.&lt;/p&gt;
+&lt;p&gt;Esto es una maravilla que se vivió no solo en su momento, sino durante muchos años posteriores: recuerdo en la época en la que ya existía la PS3 a gente asegurar que Aerith podía ser revivida después de su muerte…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2025-07-26-ffviire/images/ffvii4.png&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;em&gt;Aerith vive&lt;/em&gt; escrito en un graffiti de la película &lt;em&gt;Rompe Ralph&lt;/em&gt;.
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;¿Y cuáles eran las causas de que la gente pensara que Aerith no estaba tan muerta como nos querían hacer creer? Voy a enumerar unas cuantas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Existe el límite de nivel 4 en el juego, a pesar de que no se puede conseguir antes de su muerte&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Se puede conseguir su arma definitiva aunque ella ya haya abandonado el grupo&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Su fantasma aparece en la iglesia después de su muerte&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Es triste que un personaje querido se muera &lt;strong&gt;de verdad&lt;/strong&gt; en un videojuego y que no haya posibilidad de salvarlo&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lo peor no son las teorías, sin embargo, sino lo que habría que hacer para revivirla: llevar todos los personajes a nivel 99 antes de encontrarnos con Sephiroth, ser protectores con Aerith y despreciar a Tifa (ella sería la que moriría), dar 100 pañuelos a un NPC para que nos dijera cómo salvarla, hacer una complicada serie de misiones que incluyen usar 4 pañuelos al lado de su cama para que Cloud llorara su pérdida… Por supuesto, nada de esto funciona, aunque podéis &lt;a href=&#34;https://ff7rumors.tripod.com/aeris.htm&#34;&gt;leer sobre estas teorías&lt;/a&gt; si os apetece. A día de hoy todas están confirmadas como no reales.&lt;/p&gt;
+&lt;p&gt;Sí es cierto que hay líneas de diálogo para ella después de su muerte. Obviamente, no hay forma normal de acceder a ellas, solo con trucos, pero lo que nos puede indicar esto, como mucho, es que hubo un cambio de planes en la historia (muy probablemente, que su muerte iba a ser posterior, en la zona final del juego; también que al principio dudaban entre que la muerte fuera la suya o la de Barret), e incluso podría no indicar nada, dado que otros personajes tienen líneas de diálogo que no aparecerían nunca en el juego normal, como diálogo sobre un evento que ocurre antes de que el personaje aparezca y se una al grupo.&lt;/p&gt;
+&lt;p&gt;¿Adónde quiero ir con todo esto? A que el final del Rebirth es mucho menos claro que el juego original con respecto a si Aerith vive o no, y la verdad es que trastocó mis expectativas.&lt;/p&gt;
+&lt;p&gt;Cuando hablé de lo que sería el final de este juego con una amiga yo tenía dos teorías: 1) No se iban a atrever a matar a Aerith de nuevo, ya que sabían que la gente la quería mucho (en el primer juego es muy, muy carismática), y cambiarían por dónde va la historia. 2) No se iban a atrever a &lt;strong&gt;no&lt;/strong&gt; matar a Aerith, ya que su muerte es esencial para la trama y la evolución de Cloud. Con estas dos teorías, que en el fondo me las creía, me cubría totalmente: así, pasara lo que pasase, tendría razón.&lt;/p&gt;
+&lt;p&gt;Y no tuve razón.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2025-07-26-ffviire/images/ffvii5.jpeg&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+Aerith (¿a lo mejor?) muerta en brazos de Cloud.
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;Un pequeño resumen de lo que pasa al final de Rebirth: Cloud está a punto de matar a Aerith (por influencia de Sephiroth, parece ser). Consigue pararse y Sephiroth baja para hacerlo él mismo, pero el protagonista, haciendo un esfuerzo increíble, consigue parar el golpe, desviando la Masamune de su enemigo… espada que, tras un parpadeo, aparece en su mano, manchada de sangre. Aquí suponemos que Aerith sí ha muerto (importante el hecho de que no lo hayamos visto realmente), pero entonces comienzan varias batallas. En una de ellas Cloud lucha junto a Zack (¿de otro mundo paralelo?), pero Sephiroth corta la conexión, diciendo que «igual que los mundos se unen, también pueden ser ser separados». Varias peleas más suceden y entonces tenemos la lucha uno contra uno que ya vimos al final del Remake (y que representa la última batalla del juego original), pero esta vez nos acompaña Aerith, que al terminar dice «¿Preparado? Los demás están esperando» justo antes de desaparecer.&lt;/p&gt;
+&lt;p&gt;Después de estas batallas, Aerith sigue en el suelo, aparentemente muerta, mientras todos van a su lado. Pero, cuando llega Cloud, el resto desaparece: están ellos dos a solas. Le dice que se despierte, ¡y ella lo hace! Cambia la escena y todos —especialmente Tifa— actúan como si Aerith hubiera muerto, mientras que Cloud no solo no se comporta así, sino que habla con ella. Podríamos pensar que es una imaginación suya, o que no acepta su muerte, pero, aunque llevamos dos juegos siendo testigos de cómo Cloud ve cosas que no están ahí, normalmente a esto lo acompaña un efecto visual que ahora no está. Respecto a que no axepte la muerte de Aerith y esta sea solo un recuerdo o su imaginación, hemos de recordar que hay un momento en el que Red XIII/Nanaki &lt;strong&gt;sí&lt;/strong&gt; que la percibe cuando ella lo acaricia.&lt;/p&gt;
+&lt;p&gt;Entonces, ¿está viva o no?&lt;/p&gt;
+&lt;p&gt;Creo que esta es la clave de este juego: ha conseguido crear el ambiente para que la gente vuelva a pensar sobre si un personaje querido está realmente muerto o tiene una posibilidad de salvación, si el fantasma puede ser revivido, si los mundos paralelos (como aquel que habita Zack) pueden servir para que Aerith vuelva en un final feliz para todos… Con el añadido de que habrá que esperar a la tercera y última parte —si es que acaba publicándose— en lugar de ocurrir en una historia ya terminada.&lt;/p&gt;
+&lt;p&gt;Para mí (aunque me decanto porque sí haya muerto, por peso narrativo y emocional) lo importante no es si estará viva o no, sino que se ha conseguido que haya personas que realmente están seguras (o que lo quieran con mucha fuerza, al final es muy parecido) de que Aerith vive, y que la veremos en el próximo juego.&lt;/p&gt;
+&lt;p&gt;En cualquier caso, justo antes del fundido a negro de los créditos, con Aerith mirando al grupo continuar, el juego nos avisa, anticipando la reacción de la gente que lo ha jugado, de que no nos confiemos:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/2025-07-26-ffviire/images/ffvii6.webp&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+No hay promesas esperando al final del viaje.
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Es totalmente posible conseguirlo antes, aunque esté &lt;a href=&#34;https://www.youtube.com/watch?v=Zlvr-q1STps&#34;&gt;un poco escondido&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;La verdad es que esta no me parece tan relevante. De hecho, si la tiene equipada antes de morir se pierde para siempre, me parece que aquí se tiende a la lógica de videojuego en vez de a la real.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Una de las teorías sobre esto es que se podría resucitar. Se viene abajo cuando nos damos cuenta de que realmente este “fantasma” aparece cuando ShinRa la secuestra, estando ella viva aún.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Esta es la que más sentido tiene, claro.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content:encoded>
+
+      
+      <description><![CDATA[Análisis sobre la trilogía que vuelve a tratar Final Fantasy VII, centrándose en el personaje de Aerith y su destino.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
     </item>
+    
     <item>
       <title>Publicar mis pensamientos en Internet</title>
-      <link>http://localhost:1313/blog/primerpost/</link>
+      <link>http://localhost:1313/blog/2025-07-19-primerpost/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/primerpost/</guid>
-      <description>Cómo empecé a publicar ensayos, opiniones y otros textos, y por qué he decidido crearme un blog propio. Recomendada primera lectura del blog, para saber las razones detrás de este.</description>
+      <guid>http://localhost:1313/blog/2025-07-19-primerpost/</guid>
+
+      
+      <content:encoded>&lt;h2 id=&#34;comenzando-a-publicar-online&#34;&gt;Comenzando a publicar online&lt;/h2&gt;
+&lt;p&gt;Hace muchos, pero muchos años —a ver, como veinte o así, pero más de la mitad de mi vida, al final— empecé a escribir una especie de diario en Google Docs. Lo interesante era que lo veía, de vez en cuando, e iba añadiendo una entrada con la fecha, intentando no mirar lo que había escrito previamente. Así, poco a poco, pensaba ir teniendo una especie de registro en el que iría viendo mi evolución.&lt;/p&gt;
+&lt;p&gt;No sé si a alguien le sorprenderá lo que ocurrió a continuación, pero es bastante sencillo: simplemente lo fui dejando. Fue una mezcla de falta de compromiso y de leer —muy de vez en cuando— las tonterías que había puesto el Diego de hace unos años. Aún a día de hoy recuerdo una de las primeras entradas de ese diario y me entra un escalofrío de vergüenza ajena.&lt;/p&gt;
+&lt;p&gt;Poco más tarde intenté escribir un blog, pues era una época en la que triunfaban, para intentar ganar seguidores. Aquel momento fue algo extraño, porque estaba empezando a escribir literatura y aprovechaba para analizar diferentes obras, muchas de ellas no eran sino regurgitaciones de análisis de otras personas, por mucho que me fastidie admitirlo ahora. Obviamente, aquello tampoco salió bien del todo, creo que por la simple razón de que lo hacía para tener un público, y este no llegaba. Tiene sentido, por otro lado: el público lo hubiera leído de ser yo famoso previamente o tener una rutina y una capacidad analítica muy desarrolladas. Ninguno de los dos era el caso.&lt;/p&gt;
+&lt;h2 id=&#34;y-lo-de-ahora&#34;&gt;¿Y lo de ahora?&lt;/h2&gt;
+&lt;p&gt;Entonces ¿qué tiene de diferente este blog que ahora estás leyendo? La madurez podría ser algo interesante: soy consciente de que el Diego actual tiene una capacidad de análisis superior —tanto por formación necesaria como por el hecho de que me han alimentado más obras y más variadas—, pero uno de los puntos débiles del plan anterior se ha esfumado. No quiero con este blog llegar a multitudes, aunque bienvenidas sean si les apetece pasarse, sino que intentará ser un resumen de mis pensamientos, experiencias y argumentos que a veces se agolpan en mi cabeza y no soy capaz de entender hasta que no intento expresarlos.&lt;/p&gt;
+&lt;p&gt;Este primer post es, pues, una declaración de intenciones: me gustaría que este fuera un espacio en internet, que no dependa de una empresa que me ceda una parcela de forma gratuita, pero haciendo al final publicidad de su dominio (mi último intento reciente vino por aquí), y donde pueda plasmar los proyectos que voy elaborando, aunque solo sea por una razón archivista.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Píxel art de un cerebro enviando información a Internet&#34; src=&#34;http://localhost:1313/blog/2025-07-19-primerpost/images/photo1.png&#34; title=&#34;Píxel art de un cerebro descargando información a un monitor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sí, podría simplemente tener todo por ahí, escribir unos cuantos hilos en Bluesky sobre algo que me interesa, hacer un par de dibujos y que estén en Artstation, o que mis novelas se puedan comprar en Amazon o leer en otros lugares, pero la verdad es que tener un pequeño lugar en la web que reúna mis diferentes &lt;a href=&#34;http://localhost:1313/proyectos/&#34;&gt;proyectos&lt;/a&gt; me parece más apetecible.&lt;/p&gt;
+&lt;h2 id=&#34;reclamando-espacios&#34;&gt;Reclamando espacios&lt;/h2&gt;
+&lt;p&gt;Por otro lado, me parece importante reclamar estos pequeños espacios en internet: un pequeño blog, una web propia, por mucho que parezcan algo minúsculo, son importantes para nuestra independencia: ¿quién nos dice que mañana no nos van a cerrar la cuenta de YouTube, de Instagram o de Facebook? Nuestros datos, y todo lo que subimos, son prácticamente suyos. No, sinceramente creo que necesitamos aislarnos un poco de todo eso, y que escribir por y para nosotros mismos es vital en la época que vivimos.&lt;/p&gt;
+&lt;p&gt;Esta es la razón de este blog, donde pongo una pequeña parte de mí. Espero que lo disfrutes y, si te apeteciera, intentes algo parecido, reclamando para ti una pequeña parte de este Internet que es de todos.&lt;/p&gt;
+</content:encoded>
+
+      
+      <description><![CDATA[Cómo empecé a publicar ensayos, opiniones y otros textos, y por qué he decidido crearme un blog propio. Recomendada primera lectura del blog, para saber las razones detrás de este.]]></description>
+
+      
+      
+
+      
+      
+
+      
+      
+
     </item>
+    
   </channel>
 </rss>
