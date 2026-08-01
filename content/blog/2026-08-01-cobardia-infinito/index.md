@@ -1,6 +1,6 @@
 ---
 
-title: La cobaría en el infinito
+title: La cobardía en el infinito
 subtitle: "o ¿por qué la ficción no termina de dar con la tecla?"
 summary: La vida, la muerte, el más allá... Todo se ha representado en la ficción, pero habitualmente de forma muy limitada.
 date: 2026-08-01
